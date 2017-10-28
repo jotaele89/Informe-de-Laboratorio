@@ -63,26 +63,50 @@
 \pagestyle{fancy} 
 
 % margenes
-\setlength{\oddsidemargin}{10mm}
-\setlength{\evensidemargin}{10mm}
+\setlength{\oddsidemargin}{5mm}
+\setlength{\evensidemargin}{5mm}
 
 \begin{document}
 
 \begin{titlepage}
-\vspace*{4cm}
-\centering
-\Huge
-\textbf{Cómo hacer un Reporte o Informe con LaTeX} \\
-\vspace*{0.8cm}
-\rule{80mm}{0.1mm} \\
-\vspace*{0.2cm}
-\Large
-Ariel Marina \\
-\vspace*{0.1cm}
-\large
-\today
-\normalsize
+\begin{center}
+\begin{figure}[htb]
+\begin{center}
+\includegraphics[width=4cm]{./images/upt}
+\end{center}
+\end{figure}
+
+UNIVERSIDAD PRIVADA DE TACNA\\
+\vspace*{0.10in}
+FACULTAD DE INGENIERIA\\
+Escuela Profesional de Ingeniería de Sistemas\\
+\vspace*{0.2in}
+\begin{large}
+TEMA : \\
+\end{large}
+\vspace*{0.2in}
+\begin{Large}
+\textbf{PRACTICAS DE LABORATORIO} \\
+\end{Large}
+\vspace*{0.3in}
+\begin{large}
+DOCENTE: PATRICK CUADROS QUIROGA\\
+\end{large}
+\vspace*{0.3in}
+\rule{80mm}{0.1mm}\\
+\vspace*{0.1in}
+\begin{large}
+PRESENTADO POR: \\
+Jose Luis Condori Choquecota \\
+
+\end{large}
+\rule{80mm}{0.1mm}\\
+\begin{large}
+2017\\
+\end{large}
+\end{center}
 \end{titlepage}
+
 
 \tableofcontents
 \pagenumbering{arabic}
@@ -90,9 +114,7 @@ Ariel Marina \\
 \rhead[\thesection. Tabla de contenidos]{\thepage/\pageref{LastPage}}
 \newpage
 
-\section{Introducción}\label{se:intro}
-\lhead[\thepage/\pageref{LastPage}]{\thesection. Introduccion}
-\rhead[\thesection. Introduccion]{\thepage/\pageref{LastPage}}
+
 
 \section{4-1 Ejercicio 0}\label{se:nudo}
 \lhead[\thepage/\pageref{LastPage}]{\thesection. Nudo}
@@ -115,16 +137,18 @@ Ariel Marina \\
 Descripción general\\
 En esta práctica, creará un glosario a partir del modelo lógico de la base de datos académica.\\
 Tareas
-
 \begin{enumerate}
     \item Abra el modelo lógico de la base de datos académica.
     \item Haga clic con el botón derecho en el nodo Logical Model en el explorador y seleccione "Create Glossary from Logical Model".
     \item Especifique el nombre del glosario, una breve descripción y tantos tipos de clasificación como sean aplicables a las entradas del glosario.
     \item Guarde el glosario.
 \end{enumerate}
-\includegraphics[width=11cm]{./images/5-1 Ejercicio 1/1.png}
-\includegraphics[width=17cm]{./images/5-1 Ejercicio 1/2.png}
-\includegraphics[width=12cm]{./images/5-1 Ejercicio 1/3.png}
+\begin{center}
+\includegraphics[width=11cm]{./images/5-1 Ejercicio 1/1.png}\\
+\includegraphics[width=17cm]{./images/5-1 Ejercicio 1/2.png}\\
+\includegraphics[width=12cm]{./images/5-1 Ejercicio 1/3.png}\\
+\end{center}
+
 
 
 \section{5-1 Ejercicio 2: Creación de un Archivo.csv con Nombres Predefinidos}\label{se:nudo}
@@ -133,36 +157,33 @@ Tareas
 Descripción general\\
 En esta práctica, creará un archivo .csv con abreviaturas de los nombres predefinidos que se utilizarán en el modelo relacional de la base de datos académica.\\
 Tareas
-
-
 \begin{enumerate}
 \item  Haga clic en Tools > Name Abbreviations.
 \item Especifique el archivo .csv que contiene los pares de valores separados por comas.
 \item Especifique los objetos a los que se aplicarían los cambios de nombre.
 \item Especifique si se mantendrán las mayúsculas o minúsculas del nombre actual al cambiar la cadena de nombre
 \end{enumerate}
-\includegraphics[width=11cm]{./images/5-1 Ejercicio 2/1.png}
-\includegraphics[width=11cm]{./images/5-1 Ejercicio 2/2.png}
-\includegraphics[width=14cm]{./images/5-1 Ejercicio 2/3.png}
-\includegraphics[width=11cm]{./images/5-1 Ejercicio 2/4.png}
-\includegraphics[width=11cm]{./images/5-1 Ejercicio 2/5.png}
-\includegraphics[width=7cm]{./images/5-1 Ejercicio 2/6.png}
-\includegraphics[width=14cm]{./images/5-1 Ejercicio 2/7.png}
-\includegraphics[width=11cm]{./images/5-1 Ejercicio 2/8.png}
-
+\begin{center}
+\includegraphics[width=11cm]{./images/5-1 Ejercicio 2/1.png}\\
+\includegraphics[width=11cm]{./images/5-1 Ejercicio 2/2.png}\\
+\includegraphics[width=14cm]{./images/5-1 Ejercicio 2/3.png}\\
+\includegraphics[width=11cm]{./images/5-1 Ejercicio 2/4.png}\\
+\includegraphics[width=11cm]{./images/5-1 Ejercicio 2/5.png}\\
+\includegraphics[width=10cm]{./images/5-1 Ejercicio 2/6.png}\\
+\includegraphics[width=14cm]{./images/5-1 Ejercicio 2/7.png}\\
+\includegraphics[width=11cm]{./images/5-1 Ejercicio 2/8.png}\\
+\end{center}
 
 
 
 \section{5-1 Ejercicio 3: Creación de un Juego de Reglas}\label{se:nudo}
 \lhead[\thepage/\pageref{LastPage}]{\thesection. Nudo}
 \rhead[\thesection. Nudo]{\thepage/\pageref{LastPage}}
-
 Descripción general\\
 En esta práctica, creará un juego de reglas para la base de datos académica.\\
 Tareas\\
 Para crear un juego de reglas, realice los siguientes pasos:\\
 \begin{enumerate}
-
 \item Seleccione Design Rules en el menú Tools.
 \item Haga clic en el separador Rule Set y, a continuación, en el icono Add Rule Set (signo más).
 \item Especifique un nombre para el grupo de reglas.
@@ -170,15 +191,16 @@ Para crear un juego de reglas, realice los siguientes pasos:\\
 \item Utilice el cuadro de diálogo Rule Set Properties para mover las reglas deseadas de la columna All Rules a la columna Selected Rules.
 \item Una vez realizada esta operación, seleccione "Apply Selected RuleSet" para aplicar el juego de reglas seleccionado al diseño actual
 \end{enumerate}
-\includegraphics[width=11cm]{./images/5-1 Ejercicio 3/1.png}
-\includegraphics[width=10cm]{./images/5-1 Ejercicio 3/2.png}
-\includegraphics[width=11cm]{./images/5-1 Ejercicio 3/3.png}
-\includegraphics[width=11cm]{./images/5-1 Ejercicio 3/4.png}
-\includegraphics[width=11cm]{./images/5-1 Ejercicio 3/5.png}
-\includegraphics[width=11cm]{./images/5-1 Ejercicio 3/6.png}
-\includegraphics[width=11cm]{./images/5-1 Ejercicio 3/7.png}
-\includegraphics[width=11cm]{./images/5-1 Ejercicio 3/8.png}
-
+\begin{center}
+\includegraphics[width=11cm]{./images/5-1 Ejercicio 3/1.png}\\
+\includegraphics[width=11cm]{./images/5-1 Ejercicio 3/2.png}\\
+\includegraphics[width=11cm]{./images/5-1 Ejercicio 3/3.png}\\
+\includegraphics[width=11cm]{./images/5-1 Ejercicio 3/4.png}\\
+\includegraphics[width=11cm]{./images/5-1 Ejercicio 3/5.png}\\
+\includegraphics[width=11cm]{./images/5-1 Ejercicio 3/6.png}\\
+\includegraphics[width=11cm]{./images/5-1 Ejercicio 3/7.png}\\
+\includegraphics[width=11cm]{./images/5-1 Ejercicio 3/8.png}\\
+\end{center}
 
 
 \section{5-1 Ejercicio 4: Realización de Ingeniería Directa del Diseño para Aplicar el Glosario y el Estándar de Nomenclatura}\label{se:nudo}
@@ -195,36 +217,97 @@ directa del modelo, realice los siguientes pasos:\\
 \item Amplíe Settings y haga clic en el nodo Naming Standard.
 \item Haga clic en el icono “+” en la región Glossary y navegue hasta la ubicación del glosario.
 \end{enumerate}
-\includegraphics[width=11cm]{./images/5-1 Ejercicio 4/1.png}
-\includegraphics[width=11cm]{./images/5-1 Ejercicio 4/2.png}
+\includegraphics[width=11cm]{./images/5-1 Ejercicio 4/1.png}\\
+\includegraphics[width=11cm]{./images/5-1 Ejercicio 4/2.png}\\
 
 
-\section{5-2 Ejercicio 1}\label{se:nudo}
+\section{5-2 Ejercicio 1: Observación de la Asignación de Identificadores Únicos y su Relación en el Modelo Relacional}\label{se:nudo}
 \lhead[\thepage/\pageref{LastPage}]{\thesection. Nudo}
 \rhead[\thesection. Nudo]{\thepage/\pageref{LastPage}}
+Descripción general\\
+En esta práctica observará la asignación de los identificadores únicos y su relación en el modelo relacional de la base de datos académica.\\
+\begin{center}
+\includegraphics[width=16cm]{./images/5-2 Ejercicio 1/1.png}\\
+\includegraphics[width=16cm]{./images/5-2 Ejercicio 1/2.png}\\
+\end{center}
 
 
 
-
-\section{5-2 Ejercicio 2}\label{se:nudo}
+\section{5-2 Ejercicio 2: Definición de la Plantilla de Nombre}\label{se:nudo}
 \lhead[\thepage/\pageref{LastPage}]{\thesection. Nudo}
 \rhead[\thesection. Nudo]{\thepage/\pageref{LastPage}}
-\section{5-2 Ejercicio 3}\label{se:nudo}
-\lhead[\thepage/\pageref{LastPage}]{\thesection. Nudo}
-\rhead[\thesection. Nudo]{\thepage/\pageref{LastPage}}
-\section{5-2 Ejercicio 4}\label{se:nudo}
-\lhead[\thepage/\pageref{LastPage}]{\thesection. Nudo}
-\rhead[\thesection. Nudo]{\thepage/\pageref{LastPage}}
+Descripción general\\
+En esta práctica, definirá plantillas (patrones de nombre) para claves, índices y restricciones mediante el uso de combinaciones de variables predefinidas.\\
+\begin{center}
+\includegraphics[width=11cm]{./images/5-2 Ejercicio 2/1.png}\\
+\includegraphics[width=11cm]{./images/5-2 Ejercicio 2/2.png}\\
+\includegraphics[width=11cm]{./images/5-2 Ejercicio 2/3.png}\\
+\end{center}
 
+
+\section{5-2 Ejercicio 3: Aplicación de Plantilla de Nombre al Modelo Relacional}\label{se:nudo}
+\lhead[\thepage/\pageref{LastPage}]{\thesection. Nudo}
+\rhead[\thesection. Nudo]{\thepage/\pageref{LastPage}}
+Descripción general\\
+Después de definir la plantilla de nomenclatura puede aplicarlo a una entidad/tabla o a todo el modelo\\
+lógico/relacional. En esta práctica, aplicará la plantilla de nomenclatura a todo el modelo relacional.\\
+\begin{center}
+\includegraphics[width=11cm]{./images/5-2 Ejercicio 3/1.png}\\
+\includegraphics[width=11cm]{./images/5-2 Ejercicio 3/2.png}\\
+\end{center}
+
+
+
+\section{5-2 Ejercicio 4: Aplicación de un Prefijo de Nombre de Objeto a los Objetos del Modelo Relacional}\label{se:nudo}
+\lhead[\thepage/\pageref{LastPage}]{\thesection. Nudo}
+\rhead[\thesection. Nudo]{\thepage/\pageref{LastPage}}
+Descripción general\\
+En esta práctica, aplicará un prefijo de nombre de objeto al modelo relacional de la base de datos académica.\\
+\begin{center}
+\includegraphics[width=11cm]{./images/5-2 Ejercicio 4/1.png}\\
+\includegraphics[width=11cm]{./images/5-2 Ejercicio 4/1.png}\\
+\includegraphics[width=8cm]{./images/5-2 Ejercicio 4/3.png}\\
+\includegraphics[width=16cm]{./images/5-2 Ejercicio 4/4.png}\\
+\end{center}
 
 
 \section{6-1 Ejercicio 1}\label{se:nudo}
 \lhead[\thepage/\pageref{LastPage}]{\thesection. Nudo}
 \rhead[\thesection. Nudo]{\thepage/\pageref{LastPage}}
 
-\section{Desenlace}\label{se:des}
-\lhead[\thepage/\pageref{LastPage}]{\thesection. Desenlace}
-\rhead[\thesection. Desenlace]{\thepage/\pageref{LastPage}}
+\section{6-2 Ejercicio 1}\label{se:nudo}
+\lhead[\thepage/\pageref{LastPage}]{\thesection. Nudo}
+\rhead[\thesection. Nudo]{\thepage/\pageref{LastPage}}
+
+\section{6-3 Ejercicio 1}\label{se:nudo}
+\lhead[\thepage/\pageref{LastPage}]{\thesection. Nudo}
+\rhead[\thesection. Nudo]{\thepage/\pageref{LastPage}}
+
+\section{6-4 Ejercicio 1}\label{se:nudo}
+\lhead[\thepage/\pageref{LastPage}]{\thesection. Nudo}
+\rhead[\thesection. Nudo]{\thepage/\pageref{LastPage}}
+
+\section{6-5 Ejercicio 1}\label{se:nudo}
+\lhead[\thepage/\pageref{LastPage}]{\thesection. Nudo}
+\rhead[\thesection. Nudo]{\thepage/\pageref{LastPage}}
+
+\section{6-6 Ejercicio 1}\label{se:nudo}
+\lhead[\thepage/\pageref{LastPage}]{\thesection. Nudo}
+\rhead[\thesection. Nudo]{\thepage/\pageref{LastPage}}
+
+\section{6-7 Ejercicio 1}\label{se:nudo}
+\lhead[\thepage/\pageref{LastPage}]{\thesection. Nudo}
+\rhead[\thesection. Nudo]{\thepage/\pageref{LastPage}}
+
+\section{6-8 Ejercicio 1}\label{se:nudo}
+\lhead[\thepage/\pageref{LastPage}]{\thesection. Nudo}
+\rhead[\thesection. Nudo]{\thepage/\pageref{LastPage}}
+
+\section{6-9 Ejercicio 1}\label{se:nudo}
+\lhead[\thepage/\pageref{LastPage}]{\thesection. Nudo}
+\rhead[\thesection. Nudo]{\thepage/\pageref{LastPage}}
+
+
 
 \bibliographystyle{acm} 
 \bibliography{biblio}
