@@ -99,7 +99,9 @@ DOCENTE: PATRICK CUADROS QUIROGA\\
 PRESENTADO POR: \\
 Jose Luis Condori Choquecota \\
 Elisban Vilca Mamani\\
-Gary Calle Cortez (2013000664)
+Gary Calle Cortez\\
+Christian Cespedes Medina\\
+Aldo Lopez Mamani\\
 
 \end{large}
 \rule{80mm}{0.1mm}\\
@@ -483,6 +485,46 @@ transacciones?
 \section{6-9 Ejercicio 1}\label{se:nudo}
 \lhead[\thepage/\pageref{LastPage}]{\thesection. Nudo}
 \rhead[\thesection. Nudo]{\thepage/\pageref{LastPage}}
+Prácticas de la Sección 6 de la Lección 9:  Uso de Uniones en Consultas SQL \\
+Visión general de las prácticas \\
+En estas prácticas realizará lo siguiente: \\
+• Acceder a los datos de más de una tabla con uniones igualitarias y no igualitarias\\
+• Utilizar uniones EXTERNAS para visualizar datos que normalmente no cumplen una condición de unión\\
+• Generar un producto cartesiano\\
+6-9 Ejercicio 1: Uso de UNIONES en Consultas SQL\\
+Descripción general En esta práctica, deberá: \\
+• Acceder a los datos de más de una tabla con uniones igualitarias y no igualitarias\\
+• Utilizar uniones EXTERNAS para visualizar datos que normalmente no cumplen una condición de unión\\
+• Generar un producto cartesiano \\
+Tareas\\
+1. Muestre los diferentes cursos que ofertan los departamentos de la escuela.\\
+2. Muestre los cursos que se ofertan en otoño.\\
+3. Muestre los detalles del curso, el departamento que ofrece los cursos y los alumnos que se han inscrito en esos cursos.\\
+4. Muestre los detalles del curso, el departamento que ofrece los cursos y los alumnos que se han inscrito en esos cursos del departamento 30.\\
+5. ¿Se ejecutará correctamente la sentencia especificada? En caso negativo, ¿qué se debe cambiar? \\
+
+SELECT COURSE_NAME, MARKS, EXAM_ID \\
+FROM AD_COURSE_DETAILS d JOIN AD_EXAM_RESULTS a \\
+USING (a.COURSE_ID);  \\
+
+6. Escriba una consulta para mostrar los detalles de las calificaciones obtenidas por los alumnos que han optado por el curso con COURSE_ID en el rango de 190 a 195.\\
+7. Recupere las filas de la tabla AD_EXAM_RESULTS incluso si no hay ningún registro que coincida en la tabla AD_COURSE_DETAILS.\\
+8. ¿Qué salida se debe generar cuando se ejecuta la sentencia especificada?\\
+SELECT *\\
+FROM AD_EXAM_DETAILS\\
+CROSS JOIN AD_EXAM_TYPE;\\
+
+
+SELECT COURSE_NAME, MARKS, EXAM_ID 
+FROM AD_COURSE_DETAILS d JOIN AD_EXAM_RESULTS a 
+USING (a.COURSE_ID);  
+
+6. Escriba una consulta para mostrar los detalles de las calificaciones obtenidas por los alumnos que han optado por el curso con COURSE_ID en el rango de 190 a 195.  
+7. Recupere las filas de la tabla AD_EXAM_RESULTS incluso si no hay ningún registro que coincida en la tabla AD_COURSE_DETAILS.   
+8. ¿Qué salida se debe generar cuando se ejecuta la sentencia especificada? 
+SELECT * 
+FROM AD_EXAM_DETAILS 
+CROSS JOIN AD_EXAM_TYPE;
 
 
 
