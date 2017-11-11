@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.11.11)  11 NOV 2017 10:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.11.11)  11 NOV 2017 10:27
 entering extended mode
 **./Practicas.tex
 (Practicas.tex
@@ -697,6 +697,19 @@ Package babel Info: Redefining spanish shorthand "?
 
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./images/upt.png>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.116 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
 (Practicas.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
@@ -718,55 +731,55 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 122.
+(babel)             in language  on input line 123.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 122.
+(babel)             in language  on input line 123.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 122.
+(babel)             in language  on input line 123.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 122.
+(babel)             in language  on input line 123.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 122.
+(babel)             in language  on input line 123.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 122.
+(babel)             in language  on input line 123.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 122.
+(babel)             in language  on input line 123.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 122.
+(babel)             in language  on input line 123.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 122.
+(babel)             in language  on input line 123.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 122.
+(babel)             in language  on input line 123.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 122.
+(babel)             in language  on input line 123.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 122.
+(babel)             in language  on input line 123.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.122 \newpage
+l.123 \newpage
                [1]
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 126.
+(babel)             in language  on input line 127.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 126.
+(babel)             in language  on input line 127.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 126.
+(babel)             in language  on input line 127.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 126.
+(babel)             in language  on input line 127.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 126.
+(babel)             in language  on input line 127.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 126.
+(babel)             in language  on input line 127.
  <Imag04/1.jpg, id=138, 465.23813pt x 441.14813pt>
 File: Imag04/1.jpg Graphic file (type jpg)
 
 <use Imag04/1.jpg>
-Package pdftex.def Info: Imag04/1.jpg used on input line 138.
+Package pdftex.def Info: Imag04/1.jpg used on input line 139.
 (pdftex.def)             Requested size: 465.23698pt x 441.14705pt.
 
-Overfull \hbox (75.23698pt too wide) in paragraph at lines 138--138
+Overfull \hbox (75.23698pt too wide) in paragraph at lines 139--139
  [] 
  []
 
@@ -774,37 +787,37 @@ Overfull \hbox (75.23698pt too wide) in paragraph at lines 138--138
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 139.
+(babel)             in language  on input line 140.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 139.
+(babel)             in language  on input line 140.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 139.
+(babel)             in language  on input line 140.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 139.
+(babel)             in language  on input line 140.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 139.
+(babel)             in language  on input line 140.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 139.
+(babel)             in language  on input line 140.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 139.
+(babel)             in language  on input line 140.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 139.
+(babel)             in language  on input line 140.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 139.
+(babel)             in language  on input line 140.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 139.
+(babel)             in language  on input line 140.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 139.
+(babel)             in language  on input line 140.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 139.
+(babel)             in language  on input line 140.
  [2]
 <Imag04/2.jpg, id=147, 462.22687pt x 441.90094pt>
 File: Imag04/2.jpg Graphic file (type jpg)
  <use Imag04/2.jpg>
-Package pdftex.def Info: Imag04/2.jpg used on input line 139.
+Package pdftex.def Info: Imag04/2.jpg used on input line 140.
 (pdftex.def)             Requested size: 462.22574pt x 441.89986pt.
 
-Overfull \hbox (72.22574pt too wide) in paragraph at lines 139--139
+Overfull \hbox (72.22574pt too wide) in paragraph at lines 140--140
  [][] 
  []
 
@@ -812,36 +825,36 @@ Overfull \hbox (72.22574pt too wide) in paragraph at lines 139--139
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 140.
+(babel)             in language  on input line 141.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 140.
+(babel)             in language  on input line 141.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 140.
+(babel)             in language  on input line 141.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 140.
+(babel)             in language  on input line 141.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 140.
+(babel)             in language  on input line 141.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 140.
+(babel)             in language  on input line 141.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 140.
+(babel)             in language  on input line 141.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 140.
+(babel)             in language  on input line 141.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 140.
+(babel)             in language  on input line 141.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 140.
+(babel)             in language  on input line 141.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 140.
+(babel)             in language  on input line 141.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 140.
+(babel)             in language  on input line 141.
  [3 <./Imag04/1.jpg>] <Imag04/3.jpg, id=153, 442.65375pt x 421.575pt>
 File: Imag04/3.jpg Graphic file (type jpg)
  <use Imag04/3.jpg>
-Package pdftex.def Info: Imag04/3.jpg used on input line 140.
+Package pdftex.def Info: Imag04/3.jpg used on input line 141.
 (pdftex.def)             Requested size: 442.65265pt x 421.57396pt.
 
-Overfull \hbox (52.65265pt too wide) in paragraph at lines 140--140
+Overfull \hbox (52.65265pt too wide) in paragraph at lines 141--141
  [][] 
  []
 
@@ -849,161 +862,161 @@ Overfull \hbox (52.65265pt too wide) in paragraph at lines 140--140
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 141.
+(babel)             in language  on input line 142.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 141.
+(babel)             in language  on input line 142.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 141.
+(babel)             in language  on input line 142.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 141.
+(babel)             in language  on input line 142.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 141.
+(babel)             in language  on input line 142.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 141.
+(babel)             in language  on input line 142.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 141.
+(babel)             in language  on input line 142.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 141.
+(babel)             in language  on input line 142.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 141.
+(babel)             in language  on input line 142.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 141.
+(babel)             in language  on input line 142.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 141.
+(babel)             in language  on input line 142.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 141.
+(babel)             in language  on input line 142.
  [4 <./Imag04/2.jpg>]
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 143.
+(babel)             in language  on input line 144.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 143.
+(babel)             in language  on input line 144.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 143.
+(babel)             in language  on input line 144.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 143.
+(babel)             in language  on input line 144.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 143.
+(babel)             in language  on input line 144.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 143.
+(babel)             in language  on input line 144.
 
-Underfull \hbox (badness 10000) in paragraph at lines 146--150
+Underfull \hbox (badness 10000) in paragraph at lines 147--151
 
  []
 
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 150.
+(babel)             in language  on input line 151.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 150.
+(babel)             in language  on input line 151.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 150.
+(babel)             in language  on input line 151.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 150.
+(babel)             in language  on input line 151.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 150.
+(babel)             in language  on input line 151.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 150.
+(babel)             in language  on input line 151.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 150.
+(babel)             in language  on input line 151.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 150.
+(babel)             in language  on input line 151.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 150.
+(babel)             in language  on input line 151.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 150.
+(babel)             in language  on input line 151.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 150.
+(babel)             in language  on input line 151.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 150.
+(babel)             in language  on input line 151.
 [5 <./Imag04/3.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 163--164
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 165--166
+Underfull \hbox (badness 10000) in paragraph at lines 166--167
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 171--172
+Underfull \hbox (badness 10000) in paragraph at lines 172--173
 
  []
 
 <Imag04/4.png, id=164, 389.20406pt x 234.8775pt>
 File: Imag04/4.png Graphic file (type png)
  <use Imag04/4.png>
-Package pdftex.def Info: Imag04/4.png used on input line 173.
+Package pdftex.def Info: Imag04/4.png used on input line 174.
 (pdftex.def)             Requested size: 389.20311pt x 234.87692pt.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 176.
+(babel)             in language  on input line 177.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 176.
+(babel)             in language  on input line 177.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 176.
+(babel)             in language  on input line 177.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 176.
+(babel)             in language  on input line 177.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 176.
+(babel)             in language  on input line 177.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 176.
+(babel)             in language  on input line 177.
 
-Underfull \hbox (badness 10000) in paragraph at lines 179--182
+Underfull \hbox (badness 10000) in paragraph at lines 180--183
 
  []
 
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 182.
+(babel)             in language  on input line 183.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 182.
+(babel)             in language  on input line 183.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 182.
+(babel)             in language  on input line 183.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 182.
+(babel)             in language  on input line 183.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 182.
+(babel)             in language  on input line 183.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 182.
+(babel)             in language  on input line 183.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 182.
+(babel)             in language  on input line 183.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 182.
+(babel)             in language  on input line 183.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 182.
+(babel)             in language  on input line 183.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 182.
+(babel)             in language  on input line 183.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 182.
+(babel)             in language  on input line 183.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 182.
+(babel)             in language  on input line 183.
 [6 <./Imag04/4.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 183--184
+Underfull \hbox (badness 10000) in paragraph at lines 184--185
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 191--192
+Underfull \hbox (badness 10000) in paragraph at lines 192--193
 
  []
 
 <Imag04/5.png, id=172, 386.19281pt x 234.8775pt>
 File: Imag04/5.png Graphic file (type png)
  <use Imag04/5.png>
-Package pdftex.def Info: Imag04/5.png used on input line 193.
+Package pdftex.def Info: Imag04/5.png used on input line 194.
 (pdftex.def)             Requested size: 386.19185pt x 234.87692pt.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 196.
+(babel)             in language  on input line 197.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 196.
+(babel)             in language  on input line 197.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 196.
+(babel)             in language  on input line 197.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 196.
+(babel)             in language  on input line 197.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 196.
+(babel)             in language  on input line 197.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 196.
+(babel)             in language  on input line 197.
 
-Underfull \hbox (badness 10000) in paragraph at lines 199--202
+Underfull \hbox (badness 10000) in paragraph at lines 200--203
 
  []
 
@@ -1011,613 +1024,613 @@ Underfull \hbox (badness 10000) in paragraph at lines 199--202
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 202.
+(babel)             in language  on input line 203.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 202.
+(babel)             in language  on input line 203.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 202.
+(babel)             in language  on input line 203.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 202.
+(babel)             in language  on input line 203.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 202.
+(babel)             in language  on input line 203.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 202.
+(babel)             in language  on input line 203.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 202.
+(babel)             in language  on input line 203.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 202.
+(babel)             in language  on input line 203.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 202.
+(babel)             in language  on input line 203.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 202.
+(babel)             in language  on input line 203.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 202.
+(babel)             in language  on input line 203.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 202.
+(babel)             in language  on input line 203.
  [7 <./Imag04/5.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 205--206
+Underfull \hbox (badness 10000) in paragraph at lines 206--207
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 211--212
+Underfull \hbox (badness 10000) in paragraph at lines 212--213
 
  []
 
 <Imag04/6.png, id=179, 426.84468pt x 272.51813pt>
 File: Imag04/6.png Graphic file (type png)
  <use Imag04/6.png>
-Package pdftex.def Info: Imag04/6.png used on input line 213.
+Package pdftex.def Info: Imag04/6.png used on input line 214.
 (pdftex.def)             Requested size: 426.84364pt x 272.51746pt.
 
-Overfull \hbox (36.84364pt too wide) in paragraph at lines 213--214
+Overfull \hbox (36.84364pt too wide) in paragraph at lines 214--215
  [] 
  []
 
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 217.
+(babel)             in language  on input line 218.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 217.
+(babel)             in language  on input line 218.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 217.
+(babel)             in language  on input line 218.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 217.
+(babel)             in language  on input line 218.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 217.
+(babel)             in language  on input line 218.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 217.
+(babel)             in language  on input line 218.
 
 Underfull \vbox (badness 1292) has occurred while \output is active []
 
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 224.
+(babel)             in language  on input line 225.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 224.
+(babel)             in language  on input line 225.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 224.
+(babel)             in language  on input line 225.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 224.
+(babel)             in language  on input line 225.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 224.
+(babel)             in language  on input line 225.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 224.
+(babel)             in language  on input line 225.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 224.
+(babel)             in language  on input line 225.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 224.
+(babel)             in language  on input line 225.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 224.
+(babel)             in language  on input line 225.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 224.
+(babel)             in language  on input line 225.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 224.
+(babel)             in language  on input line 225.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 224.
+(babel)             in language  on input line 225.
  [8 <./Imag04/6.png>]
 
 LaTeX Warning: File `./images/5-1 Ejercicio 1/1.png' not found on input line 23
-0.
+1.
 
 <./images/5-1 Ejercicio 1/1.png, id=185, 402.75468pt x 430.60875pt>
 File: ./images/5-1 Ejercicio 1/1.png Graphic file (type png)
 
 <use ./images/5-1 Ejercicio 1/1.png>
-Package pdftex.def Info: ./images/5-1 Ejercicio 1/1.png used on input line 230.
+Package pdftex.def Info: ./images/5-1 Ejercicio 1/1.png used on input line 231.
 
 (pdftex.def)             Requested size: 312.9803pt x 334.62505pt.
 
 
 LaTeX Warning: File `./images/5-1 Ejercicio 1/2.png' not found on input line 23
-1.
+2.
 
 <./images/5-1 Ejercicio 1/2.png, id=186, 779.91376pt x 500.62032pt>
 File: ./images/5-1 Ejercicio 1/2.png Graphic file (type png)
 
 <use ./images/5-1 Ejercicio 1/2.png>
-Package pdftex.def Info: ./images/5-1 Ejercicio 1/2.png used on input line 231.
+Package pdftex.def Info: ./images/5-1 Ejercicio 1/2.png used on input line 232.
 
 (pdftex.def)             Requested size: 483.69684pt x 310.4807pt.
 
-Overfull \hbox (93.69684pt too wide) in paragraph at lines 231--231
+Overfull \hbox (93.69684pt too wide) in paragraph at lines 232--232
  [] 
  []
 
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 232.
+(babel)             in language  on input line 233.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 232.
+(babel)             in language  on input line 233.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 232.
+(babel)             in language  on input line 233.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 232.
+(babel)             in language  on input line 233.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 232.
+(babel)             in language  on input line 233.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 232.
+(babel)             in language  on input line 233.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 232.
+(babel)             in language  on input line 233.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 232.
+(babel)             in language  on input line 233.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 232.
+(babel)             in language  on input line 233.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 232.
+(babel)             in language  on input line 233.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 232.
+(babel)             in language  on input line 233.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 232.
+(babel)             in language  on input line 233.
 [9 <./images/5-1 Ejercicio 1/1.png>]
 
 LaTeX Warning: File `./images/5-1 Ejercicio 1/3.png' not found on input line 23
-2.
+3.
 
 <./images/5-1 Ejercicio 1/3.png, id=196, 262.73157pt x 106.89937pt>
 File: ./images/5-1 Ejercicio 1/3.png Graphic file (type png)
 
 <use ./images/5-1 Ejercicio 1/3.png>
-Package pdftex.def Info: ./images/5-1 Ejercicio 1/3.png used on input line 232.
+Package pdftex.def Info: ./images/5-1 Ejercicio 1/3.png used on input line 233.
 
 (pdftex.def)             Requested size: 341.43306pt x 138.92673pt.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 237.
+(babel)             in language  on input line 238.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 237.
+(babel)             in language  on input line 238.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 237.
+(babel)             in language  on input line 238.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 237.
+(babel)             in language  on input line 238.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 237.
+(babel)             in language  on input line 238.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 237.
+(babel)             in language  on input line 238.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 244.
+(babel)             in language  on input line 245.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 244.
+(babel)             in language  on input line 245.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 244.
+(babel)             in language  on input line 245.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 244.
+(babel)             in language  on input line 245.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 244.
+(babel)             in language  on input line 245.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 244.
+(babel)             in language  on input line 245.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 244.
+(babel)             in language  on input line 245.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 244.
+(babel)             in language  on input line 245.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 244.
+(babel)             in language  on input line 245.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 244.
+(babel)             in language  on input line 245.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 244.
+(babel)             in language  on input line 245.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 244.
+(babel)             in language  on input line 245.
  [10 <./images/5-1 Ejercicio 1/2.png> <./images/5-1 Ejercicio 1/3.png>]
 
 LaTeX Warning: File `./images/5-1 Ejercicio 2/1.png' not found on input line 25
-0.
+1.
 
 <./images/5-1 Ejercicio 2/1.png, id=202, 402.75468pt x 323.70938pt>
 File: ./images/5-1 Ejercicio 2/1.png Graphic file (type png)
 
 <use ./images/5-1 Ejercicio 2/1.png>
-Package pdftex.def Info: ./images/5-1 Ejercicio 2/1.png used on input line 250.
+Package pdftex.def Info: ./images/5-1 Ejercicio 2/1.png used on input line 251.
 
 (pdftex.def)             Requested size: 312.9803pt x 251.5538pt.
 
 
 LaTeX Warning: File `./images/5-1 Ejercicio 2/2.png' not found on input line 25
-1.
+2.
 
 <./images/5-1 Ejercicio 2/2.png, id=203, 432.11438pt x 373.395pt>
 File: ./images/5-1 Ejercicio 2/2.png Graphic file (type png)
 
 <use ./images/5-1 Ejercicio 2/2.png>
-Package pdftex.def Info: ./images/5-1 Ejercicio 2/2.png used on input line 251.
+Package pdftex.def Info: ./images/5-1 Ejercicio 2/2.png used on input line 252.
 
 (pdftex.def)             Requested size: 312.9803pt x 270.45659pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 252.
+(babel)             in language  on input line 253.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 252.
+(babel)             in language  on input line 253.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 252.
+(babel)             in language  on input line 253.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 252.
+(babel)             in language  on input line 253.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 252.
+(babel)             in language  on input line 253.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 252.
+(babel)             in language  on input line 253.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 252.
+(babel)             in language  on input line 253.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 252.
+(babel)             in language  on input line 253.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 252.
+(babel)             in language  on input line 253.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 252.
+(babel)             in language  on input line 253.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 252.
+(babel)             in language  on input line 253.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 252.
+(babel)             in language  on input line 253.
  [11 <./images/5-1 Ejercicio 2/1.png>]
 
 LaTeX Warning: File `./images/5-1 Ejercicio 2/3.png' not found on input line 25
-2.
+3.
 
 <./images/5-1 Ejercicio 2/3.png, id=213, 479.54156pt x 218.31563pt>
 File: ./images/5-1 Ejercicio 2/3.png Graphic file (type png)
 
 <use ./images/5-1 Ejercicio 2/3.png>
-Package pdftex.def Info: ./images/5-1 Ejercicio 2/3.png used on input line 252.
+Package pdftex.def Info: ./images/5-1 Ejercicio 2/3.png used on input line 253.
 
 (pdftex.def)             Requested size: 398.33858pt x 181.34848pt.
 
-Overfull \hbox (8.33858pt too wide) in paragraph at lines 252--252
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 253--253
  [] 
  []
 
 
 LaTeX Warning: File `./images/5-1 Ejercicio 2/4.png' not found on input line 25
-3.
+4.
 
 <./images/5-1 Ejercicio 2/4.png, id=214, 441.14813pt x 347.04657pt>
 File: ./images/5-1 Ejercicio 2/4.png Graphic file (type png)
 
 <use ./images/5-1 Ejercicio 2/4.png>
-Package pdftex.def Info: ./images/5-1 Ejercicio 2/4.png used on input line 253.
+Package pdftex.def Info: ./images/5-1 Ejercicio 2/4.png used on input line 254.
 
 (pdftex.def)             Requested size: 312.9803pt x 246.23003pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 254.
+(babel)             in language  on input line 255.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 254.
+(babel)             in language  on input line 255.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 254.
+(babel)             in language  on input line 255.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 254.
+(babel)             in language  on input line 255.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 254.
+(babel)             in language  on input line 255.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 254.
+(babel)             in language  on input line 255.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 254.
+(babel)             in language  on input line 255.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 254.
+(babel)             in language  on input line 255.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 254.
+(babel)             in language  on input line 255.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 254.
+(babel)             in language  on input line 255.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 254.
+(babel)             in language  on input line 255.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 254.
+(babel)             in language  on input line 255.
  [12 <./images/5-1 Ejercicio 2/2.png> <./images/5-1 Ejercicio 2/3.png>]
 
 LaTeX Warning: File `./images/5-1 Ejercicio 2/5.png' not found on input line 25
-4.
+5.
 
 <./images/5-1 Ejercicio 2/5.png, id=221, 479.54156pt x 218.31563pt>
 File: ./images/5-1 Ejercicio 2/5.png Graphic file (type png)
 
 <use ./images/5-1 Ejercicio 2/5.png>
-Package pdftex.def Info: ./images/5-1 Ejercicio 2/5.png used on input line 254.
+Package pdftex.def Info: ./images/5-1 Ejercicio 2/5.png used on input line 255.
 
 (pdftex.def)             Requested size: 312.9803pt x 142.48976pt.
 
 
 LaTeX Warning: File `./images/5-1 Ejercicio 2/6.png' not found on input line 25
-5.
+6.
 
 <./images/5-1 Ejercicio 2/6.png, id=222, 227.34938pt x 233.37187pt>
 File: ./images/5-1 Ejercicio 2/6.png Graphic file (type png)
 
 <use ./images/5-1 Ejercicio 2/6.png>
-Package pdftex.def Info: ./images/5-1 Ejercicio 2/6.png used on input line 255.
+Package pdftex.def Info: ./images/5-1 Ejercicio 2/6.png used on input line 256.
 
 (pdftex.def)             Requested size: 284.52756pt x 292.0702pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 256.
+(babel)             in language  on input line 257.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 256.
+(babel)             in language  on input line 257.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 256.
+(babel)             in language  on input line 257.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 256.
+(babel)             in language  on input line 257.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 256.
+(babel)             in language  on input line 257.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 256.
+(babel)             in language  on input line 257.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 256.
+(babel)             in language  on input line 257.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 256.
+(babel)             in language  on input line 257.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 256.
+(babel)             in language  on input line 257.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 256.
+(babel)             in language  on input line 257.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 256.
+(babel)             in language  on input line 257.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 256.
+(babel)             in language  on input line 257.
  [13 <./images/5-1 Ejercicio 2/4.png> <./images/5-1 Ejercicio 2/5.png>]
 
 LaTeX Warning: File `./images/5-1 Ejercicio 2/7.png' not found on input line 25
-6.
+7.
 
 <./images/5-1 Ejercicio 2/7.png, id=228, 587.94656pt x 264.99pt>
 File: ./images/5-1 Ejercicio 2/7.png Graphic file (type png)
 
 <use ./images/5-1 Ejercicio 2/7.png>
-Package pdftex.def Info: ./images/5-1 Ejercicio 2/7.png used on input line 256.
+Package pdftex.def Info: ./images/5-1 Ejercicio 2/7.png used on input line 257.
 
 (pdftex.def)             Requested size: 398.33858pt x 179.53174pt.
 
-Overfull \hbox (8.33858pt too wide) in paragraph at lines 256--256
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 257--257
  [] 
  []
 
 
 LaTeX Warning: File `./images/5-1 Ejercicio 2/8.png' not found on input line 25
-7.
+8.
 
 <./images/5-1 Ejercicio 2/8.png, id=229, 441.14813pt x 347.04657pt>
 File: ./images/5-1 Ejercicio 2/8.png Graphic file (type png)
 
 <use ./images/5-1 Ejercicio 2/8.png>
-Package pdftex.def Info: ./images/5-1 Ejercicio 2/8.png used on input line 257.
+Package pdftex.def Info: ./images/5-1 Ejercicio 2/8.png used on input line 258.
 
 (pdftex.def)             Requested size: 312.9803pt x 246.23003pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 258.
+(babel)             in language  on input line 259.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 258.
+(babel)             in language  on input line 259.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 258.
+(babel)             in language  on input line 259.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 258.
+(babel)             in language  on input line 259.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 258.
+(babel)             in language  on input line 259.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 258.
+(babel)             in language  on input line 259.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 258.
+(babel)             in language  on input line 259.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 258.
+(babel)             in language  on input line 259.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 258.
+(babel)             in language  on input line 259.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 258.
+(babel)             in language  on input line 259.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 258.
+(babel)             in language  on input line 259.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 258.
+(babel)             in language  on input line 259.
  [14 <./images/5-1 Ejercicio 2/6.png> <./images/5-1 Ejercicio 2/7.png>]
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 262.
+(babel)             in language  on input line 263.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 262.
+(babel)             in language  on input line 263.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 262.
+(babel)             in language  on input line 263.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 262.
+(babel)             in language  on input line 263.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 262.
+(babel)             in language  on input line 263.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 262.
+(babel)             in language  on input line 263.
 
-Underfull \hbox (badness 10000) in paragraph at lines 265--270
+Underfull \hbox (badness 10000) in paragraph at lines 266--271
 
  []
 
 
-Overfull \hbox (7.6542pt too wide) in paragraph at lines 275--276
+Overfull \hbox (7.6542pt too wide) in paragraph at lines 276--277
 []\OT1/cmr/m/n/12 Una vez rea-li-za-da es-ta ope-ra-cion, se-lec-cio-ne .[]ppl
 y Se-lec-ted Ru-le-Set"para
  []
 
 
 LaTeX Warning: File `./images/5-1 Ejercicio 3/1.png' not found on input line 27
-8.
+9.
 
 <./images/5-1 Ejercicio 3/1.png, id=235, 485.56406pt x 306.39468pt>
 File: ./images/5-1 Ejercicio 3/1.png Graphic file (type png)
 
 <use ./images/5-1 Ejercicio 3/1.png>
-Package pdftex.def Info: ./images/5-1 Ejercicio 3/1.png used on input line 278.
+Package pdftex.def Info: ./images/5-1 Ejercicio 3/1.png used on input line 279.
 
 (pdftex.def)             Requested size: 312.9803pt x 197.4898pt.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 279.
+(babel)             in language  on input line 280.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 279.
+(babel)             in language  on input line 280.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 279.
+(babel)             in language  on input line 280.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 279.
+(babel)             in language  on input line 280.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 279.
+(babel)             in language  on input line 280.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 279.
+(babel)             in language  on input line 280.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 279.
+(babel)             in language  on input line 280.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 279.
+(babel)             in language  on input line 280.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 279.
+(babel)             in language  on input line 280.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 279.
+(babel)             in language  on input line 280.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 279.
+(babel)             in language  on input line 280.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 279.
+(babel)             in language  on input line 280.
  [15 <./images/5-1 Ejercicio 2/8.png>]
 
-LaTeX Warning: File `./images/5-1 Ejercicio 3/2.png' not found on input line 27
-9.
+LaTeX Warning: File `./images/5-1 Ejercicio 3/2.png' not found on input line 28
+0.
 
 <./images/5-1 Ejercicio 3/2.png, id=248, 227.34938pt x 233.37187pt>
 File: ./images/5-1 Ejercicio 3/2.png Graphic file (type png)
 
 <use ./images/5-1 Ejercicio 3/2.png>
-Package pdftex.def Info: ./images/5-1 Ejercicio 3/2.png used on input line 279.
+Package pdftex.def Info: ./images/5-1 Ejercicio 3/2.png used on input line 280.
 
 (pdftex.def)             Requested size: 312.9803pt x 321.27722pt.
 
 
 LaTeX Warning: File `./images/5-1 Ejercicio 3/3.png' not found on input line 28
-0.
+1.
 
 <./images/5-1 Ejercicio 3/3.png, id=249, 591.71063pt x 267.24844pt>
 File: ./images/5-1 Ejercicio 3/3.png Graphic file (type png)
 
 <use ./images/5-1 Ejercicio 3/3.png>
-Package pdftex.def Info: ./images/5-1 Ejercicio 3/3.png used on input line 280.
+Package pdftex.def Info: ./images/5-1 Ejercicio 3/3.png used on input line 281.
 
 (pdftex.def)             Requested size: 312.9803pt x 141.3637pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 281.
+(babel)             in language  on input line 282.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 281.
+(babel)             in language  on input line 282.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 281.
+(babel)             in language  on input line 282.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 281.
+(babel)             in language  on input line 282.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 281.
+(babel)             in language  on input line 282.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 281.
+(babel)             in language  on input line 282.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 281.
+(babel)             in language  on input line 282.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 281.
+(babel)             in language  on input line 282.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 281.
+(babel)             in language  on input line 282.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 281.
+(babel)             in language  on input line 282.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 281.
+(babel)             in language  on input line 282.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 281.
+(babel)             in language  on input line 282.
  [16 <./images/5-1 Ejercicio 3/1.png> <./images/5-1 Ejercicio 3/2.png>]
 
 LaTeX Warning: File `./images/5-1 Ejercicio 3/4.png' not found on input line 28
-1.
+2.
 
 <./images/5-1 Ejercicio 3/4.png, id=255, 591.71063pt x 267.24844pt>
 File: ./images/5-1 Ejercicio 3/4.png Graphic file (type png)
 
 <use ./images/5-1 Ejercicio 3/4.png>
-Package pdftex.def Info: ./images/5-1 Ejercicio 3/4.png used on input line 281.
+Package pdftex.def Info: ./images/5-1 Ejercicio 3/4.png used on input line 282.
 
 (pdftex.def)             Requested size: 312.9803pt x 141.3637pt.
 
 
 LaTeX Warning: File `./images/5-1 Ejercicio 3/5.png' not found on input line 28
-2.
+3.
 
 <./images/5-1 Ejercicio 3/5.png, id=256, 764.8575pt x 371.13657pt>
 File: ./images/5-1 Ejercicio 3/5.png Graphic file (type png)
 
 <use ./images/5-1 Ejercicio 3/5.png>
-Package pdftex.def Info: ./images/5-1 Ejercicio 3/5.png used on input line 282.
+Package pdftex.def Info: ./images/5-1 Ejercicio 3/5.png used on input line 283.
 
 (pdftex.def)             Requested size: 312.9803pt x 151.86682pt.
 
 
 LaTeX Warning: File `./images/5-1 Ejercicio 3/6.png' not found on input line 28
-3.
+4.
 
 <./images/5-1 Ejercicio 3/6.png, id=257, 764.8575pt x 371.13657pt>
 File: ./images/5-1 Ejercicio 3/6.png Graphic file (type png)
 
 <use ./images/5-1 Ejercicio 3/6.png>
-Package pdftex.def Info: ./images/5-1 Ejercicio 3/6.png used on input line 283.
+Package pdftex.def Info: ./images/5-1 Ejercicio 3/6.png used on input line 284.
 
 (pdftex.def)             Requested size: 312.9803pt x 151.86682pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 284.
+(babel)             in language  on input line 285.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 284.
+(babel)             in language  on input line 285.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 284.
+(babel)             in language  on input line 285.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 284.
+(babel)             in language  on input line 285.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 284.
+(babel)             in language  on input line 285.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 284.
+(babel)             in language  on input line 285.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 284.
+(babel)             in language  on input line 285.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 284.
+(babel)             in language  on input line 285.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 284.
+(babel)             in language  on input line 285.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 284.
+(babel)             in language  on input line 285.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 284.
+(babel)             in language  on input line 285.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 284.
+(babel)             in language  on input line 285.
  [17 <./images/5-1 Ejercicio 3/3.png> <./images/5-1 Ejercicio 3/4.png> <./image
 s/5-1 Ejercicio 3/5.png>]
 
 LaTeX Warning: File `./images/5-1 Ejercicio 3/7.png' not found on input line 28
-4.
+5.
 
 <./images/5-1 Ejercicio 3/7.png, id=263, 764.8575pt x 371.13657pt>
 File: ./images/5-1 Ejercicio 3/7.png Graphic file (type png)
 
 <use ./images/5-1 Ejercicio 3/7.png>
-Package pdftex.def Info: ./images/5-1 Ejercicio 3/7.png used on input line 284.
+Package pdftex.def Info: ./images/5-1 Ejercicio 3/7.png used on input line 285.
 
 (pdftex.def)             Requested size: 312.9803pt x 151.86682pt.
 
 
 LaTeX Warning: File `./images/5-1 Ejercicio 3/8.png' not found on input line 28
-5.
+6.
 
 <./images/5-1 Ejercicio 3/8.png, id=264, 591.71063pt x 267.24844pt>
 File: ./images/5-1 Ejercicio 3/8.png Graphic file (type png)
 
 <use ./images/5-1 Ejercicio 3/8.png>
-Package pdftex.def Info: ./images/5-1 Ejercicio 3/8.png used on input line 285.
+Package pdftex.def Info: ./images/5-1 Ejercicio 3/8.png used on input line 286.
 
 (pdftex.def)             Requested size: 312.9803pt x 141.3637pt.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 289.
+(babel)             in language  on input line 290.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 289.
+(babel)             in language  on input line 290.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 289.
+(babel)             in language  on input line 290.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 289.
+(babel)             in language  on input line 290.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 289.
+(babel)             in language  on input line 290.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 289.
+(babel)             in language  on input line 290.
 
-Underfull \hbox (badness 10000) in paragraph at lines 292--299
+Underfull \hbox (badness 10000) in paragraph at lines 293--300
 
  []
 
@@ -1625,185 +1638,185 @@ Underfull \hbox (badness 10000) in paragraph at lines 292--299
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 299.
+(babel)             in language  on input line 300.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 299.
+(babel)             in language  on input line 300.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 299.
+(babel)             in language  on input line 300.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 299.
+(babel)             in language  on input line 300.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 299.
+(babel)             in language  on input line 300.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 299.
+(babel)             in language  on input line 300.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 299.
+(babel)             in language  on input line 300.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 299.
+(babel)             in language  on input line 300.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 299.
+(babel)             in language  on input line 300.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 299.
+(babel)             in language  on input line 300.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 299.
+(babel)             in language  on input line 300.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 299.
+(babel)             in language  on input line 300.
  [18 <./images/5-1 Ejercicio 3/6.png> <./images/5-1 Ejercicio 3/7.png> <./image
 s/5-1 Ejercicio 3/8.png>]
 
 LaTeX Warning: File `./images/5-1 Ejercicio 4/1.png' not found on input line 30
-3.
+4.
 
 <./images/5-1 Ejercicio 4/1.png, id=271, 293.59688pt x 260.47313pt>
 File: ./images/5-1 Ejercicio 4/1.png Graphic file (type png)
 
 <use ./images/5-1 Ejercicio 4/1.png>
-Package pdftex.def Info: ./images/5-1 Ejercicio 4/1.png used on input line 303.
+Package pdftex.def Info: ./images/5-1 Ejercicio 4/1.png used on input line 304.
 
 (pdftex.def)             Requested size: 312.9803pt x 277.67012pt.
 
 
 LaTeX Warning: File `./images/5-1 Ejercicio 4/2.png' not found on input line 30
-4.
+5.
 
 <./images/5-1 Ejercicio 4/2.png, id=272, 478.78876pt x 408.77719pt>
 File: ./images/5-1 Ejercicio 4/2.png Graphic file (type png)
 
 <use ./images/5-1 Ejercicio 4/2.png>
-Package pdftex.def Info: ./images/5-1 Ejercicio 4/2.png used on input line 304.
+Package pdftex.def Info: ./images/5-1 Ejercicio 4/2.png used on input line 305.
 
 (pdftex.def)             Requested size: 312.9803pt x 267.21771pt.
 
-Overfull \hbox (12.24466pt too wide) in paragraph at lines 303--305
+Overfull \hbox (12.24466pt too wide) in paragraph at lines 304--306
 \OT1/cmr/m/n/12 Ejercicio 4/1.png [] 
  []
 
 
-Overfull \hbox (12.24466pt too wide) in paragraph at lines 303--305
+Overfull \hbox (12.24466pt too wide) in paragraph at lines 304--306
 \OT1/cmr/m/n/12 Ejercicio 4/2.png [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 303--305
+Underfull \hbox (badness 10000) in paragraph at lines 304--306
 
  []
 
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 305.
+(babel)             in language  on input line 306.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 305.
+(babel)             in language  on input line 306.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 305.
+(babel)             in language  on input line 306.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 305.
+(babel)             in language  on input line 306.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 305.
+(babel)             in language  on input line 306.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 305.
+(babel)             in language  on input line 306.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 305.
+(babel)             in language  on input line 306.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 305.
+(babel)             in language  on input line 306.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 305.
+(babel)             in language  on input line 306.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 305.
+(babel)             in language  on input line 306.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 305.
+(babel)             in language  on input line 306.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 305.
+(babel)             in language  on input line 306.
 [19 <./images/5-1 Ejercicio 4/1.png>]
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 307.
+(babel)             in language  on input line 308.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 307.
+(babel)             in language  on input line 308.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 307.
+(babel)             in language  on input line 308.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 307.
+(babel)             in language  on input line 308.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 307.
+(babel)             in language  on input line 308.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 307.
+(babel)             in language  on input line 308.
 
-Underfull \hbox (badness 10000) in paragraph at lines 310--312
+Underfull \hbox (badness 10000) in paragraph at lines 311--313
 
  []
 
 
 LaTeX Warning: File `./images/5-2 Ejercicio 1/1.png' not found on input line 31
-3.
+4.
 
 <./images/5-2 Ejercicio 1/1.png, id=281, 648.17157pt x 390.70969pt>
 File: ./images/5-2 Ejercicio 1/1.png Graphic file (type png)
 
 <use ./images/5-2 Ejercicio 1/1.png>
-Package pdftex.def Info: ./images/5-2 Ejercicio 1/1.png used on input line 313.
+Package pdftex.def Info: ./images/5-2 Ejercicio 1/1.png used on input line 314.
 
 (pdftex.def)             Requested size: 455.24408pt x 274.41898pt.
-
-Overfull \hbox (65.24408pt too wide) in paragraph at lines 313--313
- [] 
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 314.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 314.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 314.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 314.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 314.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 314.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 314.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 314.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 314.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 314.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 314.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 314.
- [20 <./images/5-1 Ejercicio 4/2.png>]
-
-LaTeX Warning: File `./images/5-2 Ejercicio 1/2.png' not found on input line 31
-4.
-
-<./images/5-2 Ejercicio 1/2.png, id=287, 642.90187pt x 390.70969pt>
-File: ./images/5-2 Ejercicio 1/2.png Graphic file (type png)
-
-<use ./images/5-2 Ejercicio 1/2.png>
-Package pdftex.def Info: ./images/5-2 Ejercicio 1/2.png used on input line 314.
-
-(pdftex.def)             Requested size: 455.24408pt x 276.67252pt.
 
 Overfull \hbox (65.24408pt too wide) in paragraph at lines 314--314
  [] 
  []
 
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 319.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 319.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 319.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 319.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 319.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 319.
 
-Underfull \hbox (badness 10000) in paragraph at lines 322--324
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 315.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 315.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 315.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 315.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 315.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 315.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 315.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 315.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 315.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 315.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 315.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 315.
+ [20 <./images/5-1 Ejercicio 4/2.png>]
+
+LaTeX Warning: File `./images/5-2 Ejercicio 1/2.png' not found on input line 31
+5.
+
+<./images/5-2 Ejercicio 1/2.png, id=287, 642.90187pt x 390.70969pt>
+File: ./images/5-2 Ejercicio 1/2.png Graphic file (type png)
+
+<use ./images/5-2 Ejercicio 1/2.png>
+Package pdftex.def Info: ./images/5-2 Ejercicio 1/2.png used on input line 315.
+
+(pdftex.def)             Requested size: 455.24408pt x 276.67252pt.
+
+Overfull \hbox (65.24408pt too wide) in paragraph at lines 315--315
+ [] 
+ []
+
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 320.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 320.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 320.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 320.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 320.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 320.
+
+Underfull \hbox (badness 10000) in paragraph at lines 323--325
 
  []
 
@@ -1811,106 +1824,106 @@ Underfull \hbox (badness 10000) in paragraph at lines 322--324
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 324.
+(babel)             in language  on input line 325.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 324.
+(babel)             in language  on input line 325.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 324.
+(babel)             in language  on input line 325.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 324.
+(babel)             in language  on input line 325.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 324.
+(babel)             in language  on input line 325.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 324.
+(babel)             in language  on input line 325.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 324.
+(babel)             in language  on input line 325.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 324.
+(babel)             in language  on input line 325.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 324.
+(babel)             in language  on input line 325.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 324.
+(babel)             in language  on input line 325.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 324.
+(babel)             in language  on input line 325.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 324.
+(babel)             in language  on input line 325.
  [21 <./images/5-2 Ejercicio 1/1.png> <./images/5-2 Ejercicio 1/2.png>]
 
 LaTeX Warning: File `./images/5-2 Ejercicio 2/1.png' not found on input line 32
-5.
+6.
 
 <./images/5-2 Ejercicio 2/1.png, id=293, 207.02344pt x 246.1697pt>
 File: ./images/5-2 Ejercicio 2/1.png Graphic file (type png)
 
 <use ./images/5-2 Ejercicio 2/1.png>
-Package pdftex.def Info: ./images/5-2 Ejercicio 2/1.png used on input line 325.
+Package pdftex.def Info: ./images/5-2 Ejercicio 2/1.png used on input line 326.
 
 (pdftex.def)             Requested size: 312.9803pt x 372.20227pt.
 
 
 LaTeX Warning: File `./images/5-2 Ejercicio 2/2.png' not found on input line 32
-6.
+7.
 
 <./images/5-2 Ejercicio 2/2.png, id=294, 478.78876pt x 408.77719pt>
 File: ./images/5-2 Ejercicio 2/2.png Graphic file (type png)
 
 <use ./images/5-2 Ejercicio 2/2.png>
-Package pdftex.def Info: ./images/5-2 Ejercicio 2/2.png used on input line 326.
+Package pdftex.def Info: ./images/5-2 Ejercicio 2/2.png used on input line 327.
 
 (pdftex.def)             Requested size: 312.9803pt x 267.21771pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 327.
+(babel)             in language  on input line 328.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 327.
+(babel)             in language  on input line 328.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 327.
+(babel)             in language  on input line 328.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 327.
+(babel)             in language  on input line 328.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 327.
+(babel)             in language  on input line 328.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 327.
+(babel)             in language  on input line 328.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 327.
+(babel)             in language  on input line 328.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 327.
+(babel)             in language  on input line 328.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 327.
+(babel)             in language  on input line 328.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 327.
+(babel)             in language  on input line 328.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 327.
+(babel)             in language  on input line 328.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 327.
+(babel)             in language  on input line 328.
  [22 <./images/5-2 Ejercicio 2/1.png>]
 
 LaTeX Warning: File `./images/5-2 Ejercicio 2/3.png' not found on input line 32
-7.
+8.
 
 <./images/5-2 Ejercicio 2/3.png, id=300, 478.78876pt x 408.77719pt>
 File: ./images/5-2 Ejercicio 2/3.png Graphic file (type png)
 
 <use ./images/5-2 Ejercicio 2/3.png>
-Package pdftex.def Info: ./images/5-2 Ejercicio 2/3.png used on input line 327.
+Package pdftex.def Info: ./images/5-2 Ejercicio 2/3.png used on input line 328.
 
 (pdftex.def)             Requested size: 312.9803pt x 267.21771pt.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 331.
+(babel)             in language  on input line 332.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 331.
+(babel)             in language  on input line 332.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 331.
+(babel)             in language  on input line 332.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 331.
+(babel)             in language  on input line 332.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 331.
+(babel)             in language  on input line 332.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 331.
+(babel)             in language  on input line 332.
 
-Underfull \hbox (badness 10000) in paragraph at lines 334--337
+Underfull \hbox (badness 10000) in paragraph at lines 335--338
 
  []
 
@@ -1918,142 +1931,105 @@ Underfull \hbox (badness 10000) in paragraph at lines 334--337
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 337.
+(babel)             in language  on input line 338.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 337.
+(babel)             in language  on input line 338.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 337.
+(babel)             in language  on input line 338.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 337.
+(babel)             in language  on input line 338.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 337.
+(babel)             in language  on input line 338.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 337.
+(babel)             in language  on input line 338.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 337.
+(babel)             in language  on input line 338.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 337.
+(babel)             in language  on input line 338.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 337.
+(babel)             in language  on input line 338.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 337.
+(babel)             in language  on input line 338.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 337.
+(babel)             in language  on input line 338.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 337.
+(babel)             in language  on input line 338.
  [23 <./images/5-2 Ejercicio 2/2.png> <./images/5-2 Ejercicio 2/3.png>]
 
 LaTeX Warning: File `./images/5-2 Ejercicio 3/1.png' not found on input line 33
-8.
+9.
 
 <./images/5-2 Ejercicio 3/1.png, id=306, 392.21532pt x 400.49625pt>
 File: ./images/5-2 Ejercicio 3/1.png Graphic file (type png)
 
 <use ./images/5-2 Ejercicio 3/1.png>
-Package pdftex.def Info: ./images/5-2 Ejercicio 3/1.png used on input line 338.
+Package pdftex.def Info: ./images/5-2 Ejercicio 3/1.png used on input line 339.
 
 (pdftex.def)             Requested size: 312.9803pt x 319.6091pt.
 
 
-LaTeX Warning: File `./images/5-2 Ejercicio 3/2.png' not found on input line 33
-9.
+LaTeX Warning: File `./images/5-2 Ejercicio 3/2.png' not found on input line 34
+0.
 
 <./images/5-2 Ejercicio 3/2.png, id=307, 234.8775pt x 203.25937pt>
 File: ./images/5-2 Ejercicio 3/2.png Graphic file (type png)
 
 <use ./images/5-2 Ejercicio 3/2.png>
-Package pdftex.def Info: ./images/5-2 Ejercicio 3/2.png used on input line 339.
+Package pdftex.def Info: ./images/5-2 Ejercicio 3/2.png used on input line 340.
 
 (pdftex.def)             Requested size: 312.9803pt x 270.8495pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 340.
+(babel)             in language  on input line 341.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 340.
+(babel)             in language  on input line 341.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 340.
+(babel)             in language  on input line 341.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 340.
+(babel)             in language  on input line 341.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 340.
+(babel)             in language  on input line 341.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 340.
+(babel)             in language  on input line 341.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 340.
+(babel)             in language  on input line 341.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 340.
+(babel)             in language  on input line 341.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 340.
+(babel)             in language  on input line 341.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 340.
+(babel)             in language  on input line 341.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 340.
+(babel)             in language  on input line 341.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 340.
+(babel)             in language  on input line 341.
  [24 <./images/5-2 Ejercicio 3/1.png>]
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 344.
+(babel)             in language  on input line 345.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 344.
+(babel)             in language  on input line 345.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 344.
+(babel)             in language  on input line 345.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 344.
+(babel)             in language  on input line 345.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 344.
+(babel)             in language  on input line 345.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 344.
+(babel)             in language  on input line 345.
 
-Underfull \hbox (badness 10000) in paragraph at lines 347--349
+Underfull \hbox (badness 10000) in paragraph at lines 348--350
 
  []
 
 
 LaTeX Warning: File `./images/5-2 Ejercicio 4/1.png' not found on input line 35
-0.
+1.
 
 <./images/5-2 Ejercicio 4/1.png, id=314, 395.97937pt x 400.49625pt>
 File: ./images/5-2 Ejercicio 4/1.png Graphic file (type png)
 
-<use ./images/5-2 Ejercicio 4/1.png>
-Package pdftex.def Info: ./images/5-2 Ejercicio 4/1.png used on input line 350.
-
-(pdftex.def)             Requested size: 312.9803pt x 316.55356pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 351.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 351.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 351.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 351.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 351.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 351.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 351.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 351.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 351.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 351.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 351.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 351.
- [25 <./images/5-2 Ejercicio 3/2.png>]
-
-LaTeX Warning: File `./images/5-2 Ejercicio 4/1.png' not found on input line 35
-1.
-
-File: ./images/5-2 Ejercicio 4/1.png Graphic file (type png)
 <use ./images/5-2 Ejercicio 4/1.png>
 Package pdftex.def Info: ./images/5-2 Ejercicio 4/1.png used on input line 351.
 
@@ -2085,32 +2061,69 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 352.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 352.
+ [25 <./images/5-2 Ejercicio 3/2.png>]
+
+LaTeX Warning: File `./images/5-2 Ejercicio 4/1.png' not found on input line 35
+2.
+
+File: ./images/5-2 Ejercicio 4/1.png Graphic file (type png)
+<use ./images/5-2 Ejercicio 4/1.png>
+Package pdftex.def Info: ./images/5-2 Ejercicio 4/1.png used on input line 352.
+
+(pdftex.def)             Requested size: 312.9803pt x 316.55356pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 353.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 353.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 353.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 353.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 353.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 353.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 353.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 353.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 353.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 353.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 353.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 353.
  [26 <./images/5-2 Ejercicio 4/1.png>]
 
 LaTeX Warning: File `./images/5-2 Ejercicio 4/3.png' not found on input line 35
-2.
+3.
 
 <./images/5-2 Ejercicio 4/3.png, id=325, 198.7425pt x 103.88812pt>
 File: ./images/5-2 Ejercicio 4/3.png Graphic file (type png)
 
 <use ./images/5-2 Ejercicio 4/3.png>
-Package pdftex.def Info: ./images/5-2 Ejercicio 4/3.png used on input line 352.
+Package pdftex.def Info: ./images/5-2 Ejercicio 4/3.png used on input line 353.
 
 (pdftex.def)             Requested size: 227.62204pt x 118.9885pt.
 
 
 LaTeX Warning: File `./images/5-2 Ejercicio 4/4.png' not found on input line 35
-3.
+4.
 
 <./images/5-2 Ejercicio 4/4.png, id=326, 645.16031pt x 394.47375pt>
 File: ./images/5-2 Ejercicio 4/4.png Graphic file (type png)
 
 <use ./images/5-2 Ejercicio 4/4.png>
-Package pdftex.def Info: ./images/5-2 Ejercicio 4/4.png used on input line 353.
+Package pdftex.def Info: ./images/5-2 Ejercicio 4/4.png used on input line 354.
 
 (pdftex.def)             Requested size: 455.24408pt x 278.35081pt.
 
-Overfull \hbox (65.24408pt too wide) in paragraph at lines 353--353
+Overfull \hbox (65.24408pt too wide) in paragraph at lines 354--354
  [] 
  []
 
@@ -2118,478 +2131,478 @@ Overfull \hbox (65.24408pt too wide) in paragraph at lines 353--353
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 354.
+(babel)             in language  on input line 355.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 354.
+(babel)             in language  on input line 355.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 354.
+(babel)             in language  on input line 355.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 354.
+(babel)             in language  on input line 355.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 354.
+(babel)             in language  on input line 355.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 354.
+(babel)             in language  on input line 355.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 354.
+(babel)             in language  on input line 355.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 354.
+(babel)             in language  on input line 355.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 354.
+(babel)             in language  on input line 355.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 354.
+(babel)             in language  on input line 355.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 354.
+(babel)             in language  on input line 355.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 354.
+(babel)             in language  on input line 355.
  [27 <./images/5-2 Ejercicio 4/3.png>]
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 357.
+(babel)             in language  on input line 358.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 357.
+(babel)             in language  on input line 358.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 357.
+(babel)             in language  on input line 358.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 357.
+(babel)             in language  on input line 358.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 357.
+(babel)             in language  on input line 358.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 357.
+(babel)             in language  on input line 358.
 
-Underfull \hbox (badness 10000) in paragraph at lines 360--365
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 366--368
+Underfull \hbox (badness 10000) in paragraph at lines 361--366
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 369--370
+Underfull \hbox (badness 10000) in paragraph at lines 367--369
 
  []
 
 
-LaTeX Warning: File `./images/6-1 Ejercicio/1.png' not found on input line 371.
+Underfull \hbox (badness 10000) in paragraph at lines 370--371
+
+ []
+
+
+LaTeX Warning: File `./images/6-1 Ejercicio/1.png' not found on input line 372.
 
 
 <./images/6-1 Ejercicio/1.png, id=332, 331.2375pt x 454.69875pt>
 File: ./images/6-1 Ejercicio/1.png Graphic file (type png)
 
 <use ./images/6-1 Ejercicio/1.png>
-Package pdftex.def Info: ./images/6-1 Ejercicio/1.png used on input line 371.
+Package pdftex.def Info: ./images/6-1 Ejercicio/1.png used on input line 372.
 (pdftex.def)             Requested size: 312.9803pt x 429.6579pt.
 
 Underfull \vbox (badness 3281) has occurred while \output is active []
 
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 372.
+(babel)             in language  on input line 373.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 372.
+(babel)             in language  on input line 373.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 372.
+(babel)             in language  on input line 373.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 372.
+(babel)             in language  on input line 373.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 372.
+(babel)             in language  on input line 373.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 372.
+(babel)             in language  on input line 373.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 372.
+(babel)             in language  on input line 373.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 372.
+(babel)             in language  on input line 373.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 372.
+(babel)             in language  on input line 373.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 372.
+(babel)             in language  on input line 373.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 372.
+(babel)             in language  on input line 373.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 372.
+(babel)             in language  on input line 373.
  [28 <./images/5-2 Ejercicio 4/4.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 374--375
+Underfull \hbox (badness 10000) in paragraph at lines 375--376
 
  []
 
 
-LaTeX Warning: File `./images/6-1 Ejercicio/2.png' not found on input line 376.
+LaTeX Warning: File `./images/6-1 Ejercicio/2.png' not found on input line 377.
 
 
 <./images/6-1 Ejercicio/2.png, id=338, 668.4975pt x 327.47343pt>
 File: ./images/6-1 Ejercicio/2.png Graphic file (type png)
 
 <use ./images/6-1 Ejercicio/2.png>
-Package pdftex.def Info: ./images/6-1 Ejercicio/2.png used on input line 376.
+Package pdftex.def Info: ./images/6-1 Ejercicio/2.png used on input line 377.
 (pdftex.def)             Requested size: 312.9803pt x 153.3229pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 377.
+(babel)             in language  on input line 378.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 377.
+(babel)             in language  on input line 378.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 377.
+(babel)             in language  on input line 378.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 377.
+(babel)             in language  on input line 378.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 377.
+(babel)             in language  on input line 378.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 377.
+(babel)             in language  on input line 378.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 377.
+(babel)             in language  on input line 378.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 377.
+(babel)             in language  on input line 378.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 377.
+(babel)             in language  on input line 378.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 377.
+(babel)             in language  on input line 378.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 377.
+(babel)             in language  on input line 378.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 377.
+(babel)             in language  on input line 378.
  [29 <./images/6-1 Ejercicio/1.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 379--380
+Underfull \hbox (badness 10000) in paragraph at lines 380--381
 
  []
 
 
-LaTeX Warning: File `./images/6-1 Ejercicio/3.png' not found on input line 381.
+LaTeX Warning: File `./images/6-1 Ejercicio/3.png' not found on input line 382.
 
 
 <./images/6-1 Ejercicio/3.png, id=345, 736.25063pt x 342.5297pt>
 File: ./images/6-1 Ejercicio/3.png Graphic file (type png)
 
 <use ./images/6-1 Ejercicio/3.png>
-Package pdftex.def Info: ./images/6-1 Ejercicio/3.png used on input line 381.
+Package pdftex.def Info: ./images/6-1 Ejercicio/3.png used on input line 382.
 (pdftex.def)             Requested size: 312.9803pt x 145.61238pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 384--385
+Underfull \hbox (badness 10000) in paragraph at lines 385--386
 
  []
 
 
-LaTeX Warning: File `./images/6-1 Ejercicio/4.png' not found on input line 386.
+LaTeX Warning: File `./images/6-1 Ejercicio/4.png' not found on input line 387.
 
 
 <./images/6-1 Ejercicio/4.png, id=346, 776.14969pt x 402.75468pt>
 File: ./images/6-1 Ejercicio/4.png Graphic file (type png)
 
 <use ./images/6-1 Ejercicio/4.png>
-Package pdftex.def Info: ./images/6-1 Ejercicio/4.png used on input line 386.
+Package pdftex.def Info: ./images/6-1 Ejercicio/4.png used on input line 387.
 (pdftex.def)             Requested size: 312.9803pt x 162.41415pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 387.
+(babel)             in language  on input line 388.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 387.
+(babel)             in language  on input line 388.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 387.
+(babel)             in language  on input line 388.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 387.
+(babel)             in language  on input line 388.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 387.
+(babel)             in language  on input line 388.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 387.
+(babel)             in language  on input line 388.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 387.
+(babel)             in language  on input line 388.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 387.
+(babel)             in language  on input line 388.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 387.
+(babel)             in language  on input line 388.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 387.
+(babel)             in language  on input line 388.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 387.
+(babel)             in language  on input line 388.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 387.
+(babel)             in language  on input line 388.
  [30 <./images/6-1 Ejercicio/2.png> <./images/6-1 Ejercicio/3.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 389--390
+Underfull \hbox (badness 10000) in paragraph at lines 390--391
 
  []
 
 
-LaTeX Warning: File `./images/6-1 Ejercicio/5.png' not found on input line 391.
+LaTeX Warning: File `./images/6-1 Ejercicio/5.png' not found on input line 392.
 
 
 <./images/6-1 Ejercicio/5.png, id=353, 758.835pt x 357.58594pt>
 File: ./images/6-1 Ejercicio/5.png Graphic file (type png)
 
 <use ./images/6-1 Ejercicio/5.png>
-Package pdftex.def Info: ./images/6-1 Ejercicio/5.png used on input line 391.
+Package pdftex.def Info: ./images/6-1 Ejercicio/5.png used on input line 392.
 (pdftex.def)             Requested size: 312.9803pt x 147.48964pt.
 
 
-LaTeX Warning: File `./images/6-1 Ejercicio/6.png' not found on input line 392.
+LaTeX Warning: File `./images/6-1 Ejercicio/6.png' not found on input line 393.
 
 
 <./images/6-1 Ejercicio/6.png, id=354, 671.50874pt x 473.51906pt>
 File: ./images/6-1 Ejercicio/6.png Graphic file (type png)
 
 <use ./images/6-1 Ejercicio/6.png>
-Package pdftex.def Info: ./images/6-1 Ejercicio/6.png used on input line 392.
+Package pdftex.def Info: ./images/6-1 Ejercicio/6.png used on input line 393.
 (pdftex.def)             Requested size: 312.9803pt x 220.69707pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 393.
+(babel)             in language  on input line 394.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 393.
+(babel)             in language  on input line 394.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 393.
+(babel)             in language  on input line 394.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 393.
+(babel)             in language  on input line 394.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 393.
+(babel)             in language  on input line 394.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 393.
+(babel)             in language  on input line 394.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 393.
+(babel)             in language  on input line 394.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 393.
+(babel)             in language  on input line 394.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 393.
+(babel)             in language  on input line 394.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 393.
+(babel)             in language  on input line 394.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 393.
+(babel)             in language  on input line 394.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 393.
+(babel)             in language  on input line 394.
  [31 <./images/6-1 Ejercicio/4.png> <./images/6-1 Ejercicio/5.png>]
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 395.
+(babel)             in language  on input line 396.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 395.
+(babel)             in language  on input line 396.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 395.
+(babel)             in language  on input line 396.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 395.
+(babel)             in language  on input line 396.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 395.
+(babel)             in language  on input line 396.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 395.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 400.
+(babel)             in language  on input line 396.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 401.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 400.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 401.
 
-Underfull \hbox (badness 10000) in paragraph at lines 403--405
+Underfull \hbox (badness 10000) in paragraph at lines 404--406
 
  []
 
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 422.
+(babel)             in language  on input line 423.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 422.
+(babel)             in language  on input line 423.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 422.
+(babel)             in language  on input line 423.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 422.
+(babel)             in language  on input line 423.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 422.
+(babel)             in language  on input line 423.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 422.
+(babel)             in language  on input line 423.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 422.
+(babel)             in language  on input line 423.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 422.
+(babel)             in language  on input line 423.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 422.
+(babel)             in language  on input line 423.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 422.
+(babel)             in language  on input line 423.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 422.
+(babel)             in language  on input line 423.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 422.
+(babel)             in language  on input line 423.
 [32 <./images/6-1 Ejercicio/6.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 424--425
+Underfull \hbox (badness 10000) in paragraph at lines 425--426
 
  []
 
 
-LaTeX Warning: File `./images/6-2 Ejercicio/1.png' not found on input line 426.
+LaTeX Warning: File `./images/6-2 Ejercicio/1.png' not found on input line 427.
 
 
 <./images/6-2 Ejercicio/1.png, id=372, 831.105pt x 475.02469pt>
 File: ./images/6-2 Ejercicio/1.png Graphic file (type png)
 
 <use ./images/6-2 Ejercicio/1.png>
-Package pdftex.def Info: ./images/6-2 Ejercicio/1.png used on input line 426.
+Package pdftex.def Info: ./images/6-2 Ejercicio/1.png used on input line 427.
 (pdftex.def)             Requested size: 312.9803pt x 178.88763pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 429--430
+Underfull \hbox (badness 10000) in paragraph at lines 430--431
 
  []
 
 
-LaTeX Warning: File `./images/6-2 Ejercicio/2.png' not found on input line 431.
+LaTeX Warning: File `./images/6-2 Ejercicio/2.png' not found on input line 432.
 
 
 <./images/6-2 Ejercicio/2.png, id=373, 1253.43282pt x 265.74281pt>
 File: ./images/6-2 Ejercicio/2.png Graphic file (type png)
 
 <use ./images/6-2 Ejercicio/2.png>
-Package pdftex.def Info: ./images/6-2 Ejercicio/2.png used on input line 431.
+Package pdftex.def Info: ./images/6-2 Ejercicio/2.png used on input line 432.
 (pdftex.def)             Requested size: 312.9803pt x 66.35443pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 434--435
+Underfull \hbox (badness 10000) in paragraph at lines 435--436
 
  []
 
 
-LaTeX Warning: File `./images/6-2 Ejercicio/3.png' not found on input line 436.
+LaTeX Warning: File `./images/6-2 Ejercicio/3.png' not found on input line 437.
 
 
 <./images/6-2 Ejercicio/3.png, id=374, 1005.00468pt x 218.31563pt>
 File: ./images/6-2 Ejercicio/3.png Graphic file (type png)
 
 <use ./images/6-2 Ejercicio/3.png>
-Package pdftex.def Info: ./images/6-2 Ejercicio/3.png used on input line 436.
+Package pdftex.def Info: ./images/6-2 Ejercicio/3.png used on input line 437.
 (pdftex.def)             Requested size: 312.9803pt x 67.98694pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 439--440
+Underfull \hbox (badness 10000) in paragraph at lines 440--441
 
  []
 
 
-LaTeX Warning: File `./images/6-2 Ejercicio/4.png' not found on input line 441.
+LaTeX Warning: File `./images/6-2 Ejercicio/4.png' not found on input line 442.
 
 
 <./images/6-2 Ejercicio/4.png, id=375, 715.17188pt x 688.82344pt>
 File: ./images/6-2 Ejercicio/4.png Graphic file (type png)
 
 <use ./images/6-2 Ejercicio/4.png>
-Package pdftex.def Info: ./images/6-2 Ejercicio/4.png used on input line 441.
+Package pdftex.def Info: ./images/6-2 Ejercicio/4.png used on input line 442.
 (pdftex.def)             Requested size: 312.9803pt x 301.4541pt.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 441.
+(babel)             in language  on input line 442.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 441.
+(babel)             in language  on input line 442.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 441.
+(babel)             in language  on input line 442.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 441.
+(babel)             in language  on input line 442.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 441.
+(babel)             in language  on input line 442.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 441.
+(babel)             in language  on input line 442.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 441.
+(babel)             in language  on input line 442.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 441.
+(babel)             in language  on input line 442.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 441.
+(babel)             in language  on input line 442.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 441.
+(babel)             in language  on input line 442.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 441.
+(babel)             in language  on input line 442.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 441.
+(babel)             in language  on input line 442.
  [33 <./images/6-2 Ejercicio/1.png> <./images/6-2 Ejercicio/2.png> <./images/6-
 2 Ejercicio/3.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 444--445
+Underfull \hbox (badness 10000) in paragraph at lines 445--446
 
  []
 
 
-LaTeX Warning: File `./images/6-2 Ejercicio/5.png' not found on input line 446.
+LaTeX Warning: File `./images/6-2 Ejercicio/5.png' not found on input line 447.
 
 
 <./images/6-2 Ejercicio/5.png, id=386, 1132.23pt x 213.79875pt>
 File: ./images/6-2 Ejercicio/5.png Graphic file (type png)
 
 <use ./images/6-2 Ejercicio/5.png>
-Package pdftex.def Info: ./images/6-2 Ejercicio/5.png used on input line 446.
+Package pdftex.def Info: ./images/6-2 Ejercicio/5.png used on input line 447.
 (pdftex.def)             Requested size: 312.9803pt x 59.09985pt.
 
 
-LaTeX Warning: File `./images/6-2 Ejercicio/6.png' not found on input line 447.
+LaTeX Warning: File `./images/6-2 Ejercicio/6.png' not found on input line 448.
 
 
 <./images/6-2 Ejercicio/6.png, id=387, 1329.46687pt x 228.10219pt>
 File: ./images/6-2 Ejercicio/6.png Graphic file (type png)
 
 <use ./images/6-2 Ejercicio/6.png>
-Package pdftex.def Info: ./images/6-2 Ejercicio/6.png used on input line 447.
+Package pdftex.def Info: ./images/6-2 Ejercicio/6.png used on input line 448.
 (pdftex.def)             Requested size: 312.9803pt x 53.69798pt.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 450.
+(babel)             in language  on input line 451.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 450.
+(babel)             in language  on input line 451.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 450.
+(babel)             in language  on input line 451.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 450.
+(babel)             in language  on input line 451.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 450.
+(babel)             in language  on input line 451.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 450.
+(babel)             in language  on input line 451.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 455.
+(babel)             in language  on input line 456.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 455.
+(babel)             in language  on input line 456.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 455.
+(babel)             in language  on input line 456.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 455.
+(babel)             in language  on input line 456.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 455.
+(babel)             in language  on input line 456.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 455.
+(babel)             in language  on input line 456.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 459.
+(babel)             in language  on input line 460.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 459.
+(babel)             in language  on input line 460.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 459.
+(babel)             in language  on input line 460.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 459.
+(babel)             in language  on input line 460.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 459.
+(babel)             in language  on input line 460.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 459.
+(babel)             in language  on input line 460.
 
-Underfull \hbox (badness 10000) in paragraph at lines 462--464
+Underfull \hbox (badness 10000) in paragraph at lines 463--465
 
  []
 
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 464.
+(babel)             in language  on input line 465.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 464.
+(babel)             in language  on input line 465.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 464.
+(babel)             in language  on input line 465.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 464.
+(babel)             in language  on input line 465.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 464.
+(babel)             in language  on input line 465.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 464.
+(babel)             in language  on input line 465.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 464.
+(babel)             in language  on input line 465.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 464.
+(babel)             in language  on input line 465.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 464.
+(babel)             in language  on input line 465.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 464.
+(babel)             in language  on input line 465.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 464.
+(babel)             in language  on input line 465.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 464.
+(babel)             in language  on input line 465.
 [34 <./images/6-2 Ejercicio/4.png> <./images/6-2 Ejercicio/5.png> <./images/6-2
  Ejercicio/6.png>]
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.465 ...e la tabla para agregar la columna email_
+l.466 ...e la tabla para agregar la columna email_
                                                   addr:
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -2601,7 +2614,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.466 \item
+l.467 \item
             Cree un punto de grabación denominado ALTER_DONE.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -2613,7 +2626,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.466 \item C
+l.467 \item C
              ree un punto de grabación denominado ALTER_DONE.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -2625,18 +2638,18 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.466 \item C
+l.467 \item C
              ree un punto de grabación denominado ALTER_DONE.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-LaTeX Warning: Command \' invalid in math mode on input line 466.
+LaTeX Warning: Command \' invalid in math mode on input line 467.
 
 ! Please use \mathaccent for accents in math mode.
 \add@accent ...@spacefactor \spacefactor }\accent 
                                                   #1 #2\egroup \spacefactor ...
-l.466 \item Cree un punto de grabació
+l.467 \item Cree un punto de grabació
                                       n denominado ALTER_DONE.
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
@@ -2644,7 +2657,7 @@ I'm changing \accent to \mathaccent here; wish me luck.
 ! You can't use `\spacefactor' in math mode.
 \add@accent ...}\accent #1 #2\egroup \spacefactor 
                                                   \accent@spacefactor 
-l.466 \item Cree un punto de grabació
+l.467 \item Cree un punto de grabació
                                       n denominado ALTER_DONE.
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
@@ -2658,7 +2671,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.467 \item
+l.468 \item
             Realice rollback en la sentencia hasta el punto de grabación AL...
 
 Try typing  <return>  to proceed.
@@ -2667,7 +2680,7 @@ If that doesn't work, type  X <return>  to quit.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.467 \item R
+l.468 \item R
              ealice rollback en la sentencia hasta el punto de grabación AL...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -2675,7 +2688,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.467 \item R
+l.468 \item R
              ealice rollback en la sentencia hasta el punto de grabación AL...
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -2685,7 +2698,7 @@ my insertion and my current dilemma will both disappear.
 
 Missing character: There is no � in font cmex10!
 
-Overfull \hbox (195.97002pt too wide) in paragraph at lines 465--467
+Overfull \hbox (195.97002pt too wide) in paragraph at lines 466--468
 []\OT1/cmr/m/n/12 Modifique la ta-bla pa-ra agre-gar la co-lum-na email$[]\OML/
 cmm/m/it/12 ddr \OT1/cmr/m/n/12 : []\OML/cmm/m/it/12 Creeunpuntodegrabaci[]nden
 ominadoALTER[]ONE:[][]$ 
@@ -2694,7 +2707,7 @@ ominadoALTER[]ONE:[][]$
 ! Extra }, or forgotten \endgroup.
 \par ...m \@noitemerr {\@@par }\fi \else {\@@par }
                                                   \fi 
-l.467 \item R
+l.468 \item R
              ealice rollback en la sentencia hasta el punto de grabación AL...
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -2705,13 +2718,13 @@ deleted material, e.g., by typing `I$}'.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.467 ...encia hasta el punto de grabación ALTER_
+l.468 ...encia hasta el punto de grabación ALTER_
                                                   DONE. ¿Observa los cambios?
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Warning: Command \textquestiondown invalid in math mode on input line 467
+LaTeX Warning: Command \textquestiondown invalid in math mode on input line 468
 .
 
 
@@ -2721,7 +2734,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.468 \item
+l.469 \item
             Inserte filas en la tabla de prueba o cree un punto de grabació...
 
 Try typing  <return>  to proceed.
@@ -2734,7 +2747,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.468 \item I
+l.469 \item I
              nserte filas en la tabla de prueba o cree un punto de grabació...
 
 Try typing  <return>  to proceed.
@@ -2747,19 +2760,19 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.468 \item I
+l.469 \item I
              nserte filas en la tabla de prueba o cree un punto de grabació...
 
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-LaTeX Warning: Command \' invalid in math mode on input line 468.
+LaTeX Warning: Command \' invalid in math mode on input line 469.
 
 ! Please use \mathaccent for accents in math mode.
 \add@accent ...@spacefactor \spacefactor }\accent 
                                                   #1 #2\egroup \spacefactor ...
-l.468 ...la de prueba o cree un punto de grabació
+l.469 ...la de prueba o cree un punto de grabació
                                                   n denominado INSERT_DONE.
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
@@ -2767,7 +2780,7 @@ I'm changing \accent to \mathaccent here; wish me luck.
 ! You can't use `\spacefactor' in math mode.
 \add@accent ...}\accent #1 #2\egroup \spacefactor 
                                                   \accent@spacefactor 
-l.468 ...la de prueba o cree un punto de grabació
+l.469 ...la de prueba o cree un punto de grabació
                                                   n denominado INSERT_DONE.
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
@@ -2781,7 +2794,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.469 \item
+l.470 \item
             Actualice una fila en la tabla de prueba o cree un punto de grab...
 
 Try typing  <return>  to proceed.
@@ -2790,7 +2803,7 @@ If that doesn't work, type  X <return>  to quit.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.469 \item A
+l.470 \item A
              ctualice una fila en la tabla de prueba o cree un punto de grab...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -2798,7 +2811,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.469 \item A
+l.470 \item A
              ctualice una fila en la tabla de prueba o cree un punto de grab...
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -2808,7 +2821,7 @@ my insertion and my current dilemma will both disappear.
 
 Missing character: There is no � in font cmex10!
 
-Overfull \hbox (549.3729pt too wide) in paragraph at lines 467--469
+Overfull \hbox (549.3729pt too wide) in paragraph at lines 468--470
 []\OT1/cmr/m/n/12 Realice roll-back en la sen-ten-cia has-ta el pun-to de gra-b
 a-cion ALTER$[]\OML/cmm/m/it/12 ONE:\OT1/cmr/m/n/12 ?`\OML/cmm/m/it/12 Observa
 loscambios\OT1/cmr/m/n/12 ?[]\OML/cmm/m/it/12 Insertefilasenlatabladepruebaocre
@@ -2818,7 +2831,7 @@ eunpuntodegrabaci[]ndenominadoINSERT[]ONE:[][]$
 ! Extra }, or forgotten \endgroup.
 \par ...m \@noitemerr {\@@par }\fi \else {\@@par }
                                                   \fi 
-l.469 \item A
+l.470 \item A
              ctualice una fila en la tabla de prueba o cree un punto de grab...
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -2829,7 +2842,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.469 ...un punto de grabación denominado UPDATE_
+l.470 ...un punto de grabación denominado UPDATE_
                                                   DONE.
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -2841,7 +2854,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.470 \item
+l.471 \item
             Suprima una fila de la tabla de prueba o cree un punto de grabac...
 
 Try typing  <return>  to proceed.
@@ -2854,7 +2867,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.470 \item S
+l.471 \item S
              uprima una fila de la tabla de prueba o cree un punto de grabac...
 
 Try typing  <return>  to proceed.
@@ -2867,19 +2880,19 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.470 \item S
+l.471 \item S
              uprima una fila de la tabla de prueba o cree un punto de grabac...
 
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-LaTeX Warning: Command \' invalid in math mode on input line 470.
+LaTeX Warning: Command \' invalid in math mode on input line 471.
 
 ! Please use \mathaccent for accents in math mode.
 \add@accent ...@spacefactor \spacefactor }\accent 
                                                   #1 #2\egroup \spacefactor ...
-l.470 ...la de prueba o cree un punto de grabació
+l.471 ...la de prueba o cree un punto de grabació
                                                   n denominado DELETE_DONE.
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
@@ -2887,7 +2900,7 @@ I'm changing \accent to \mathaccent here; wish me luck.
 ! You can't use `\spacefactor' in math mode.
 \add@accent ...}\accent #1 #2\egroup \spacefactor 
                                                   \accent@spacefactor 
-l.470 ...la de prueba o cree un punto de grabació
+l.471 ...la de prueba o cree un punto de grabació
                                                   n denominado DELETE_DONE.
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
@@ -2901,7 +2914,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.471 \item
+l.472 \item
             Realice rollback hasta el punto de grabación UPDATE_DONE. ¿Qu�...
 
 Try typing  <return>  to proceed.
@@ -2910,7 +2923,7 @@ If that doesn't work, type  X <return>  to quit.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.471 \item R
+l.472 \item R
              ealice rollback hasta el punto de grabación UPDATE_DONE. ¿Qu�...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -2918,7 +2931,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.471 \item R
+l.472 \item R
              ealice rollback hasta el punto de grabación UPDATE_DONE. ¿Qu�...
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -2928,7 +2941,7 @@ my insertion and my current dilemma will both disappear.
 
 Missing character: There is no � in font cmex10!
 
-Overfull \hbox (198.74768pt too wide) in paragraph at lines 469--471
+Overfull \hbox (198.74768pt too wide) in paragraph at lines 470--472
 \OT1/cmr/m/n/12 na-do UPDATE$[]\OML/cmm/m/it/12 ONE:[]Suprimaunafiladelatablade
 pruebaocreeunpuntodegrabaci[]ndenominadoDELETE[]ONE:[][]$ 
  []
@@ -2936,7 +2949,7 @@ pruebaocreeunpuntodegrabaci[]ndenominadoDELETE[]ONE:[][]$
 ! Extra }, or forgotten \endgroup.
 \par ...m \@noitemerr {\@@par }\fi \else {\@@par }
                                                   \fi 
-l.471 \item R
+l.472 \item R
              ealice rollback hasta el punto de grabación UPDATE_DONE. ¿Qu�...
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -2947,22 +2960,22 @@ deleted material, e.g., by typing `I$}'.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.471 ...back hasta el punto de grabación UPDATE_
+l.472 ...back hasta el punto de grabación UPDATE_
                                                   DONE. ¿Qué cambios obser...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Warning: Command \textquestiondown invalid in math mode on input line 471
+LaTeX Warning: Command \textquestiondown invalid in math mode on input line 472
 .
 
 
-LaTeX Warning: Command \' invalid in math mode on input line 471.
+LaTeX Warning: Command \' invalid in math mode on input line 472.
 
 ! Please use \mathaccent for accents in math mode.
 \add@accent ...@spacefactor \spacefactor }\accent 
                                                   #1 #2\egroup \spacefactor ...
-l.471 ...l punto de grabación UPDATE_DONE. ¿Qué
+l.472 ...l punto de grabación UPDATE_DONE. ¿Qué
                                                    cambios observa respecto ...
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
@@ -2970,7 +2983,7 @@ I'm changing \accent to \mathaccent here; wish me luck.
 ! You can't use `\spacefactor' in math mode.
 \add@accent ...}\accent #1 #2\egroup \spacefactor 
                                                   \accent@spacefactor 
-l.471 ...l punto de grabación UPDATE_DONE. ¿Qué
+l.472 ...l punto de grabación UPDATE_DONE. ¿Qué
                                                    cambios observa respecto ...
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
@@ -2984,7 +2997,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.473 \end{enumerate}
+l.474 \end{enumerate}
                      
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -2996,7 +3009,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.473 \end{enumerate}
+l.474 \end{enumerate}
                      
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -3008,7 +3021,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.473 \end{enumerate}
+l.474 \end{enumerate}
                      
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -3016,7 +3029,7 @@ If that doesn't work, type  X <return>  to quit.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.473 \end{enumerate}
+l.474 \end{enumerate}
                      
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -3026,94 +3039,94 @@ my insertion and my current dilemma will both disappear.
 
 Missing character: There is no � in font cmex10!
 
-Overfull \hbox (176.65437pt too wide) in paragraph at lines 471--474
+Overfull \hbox (176.65437pt too wide) in paragraph at lines 472--475
 []\OT1/cmr/m/n/12 Realice roll-back has-ta el pun-to de gra-ba-cion UPDATE$[]\
 OML/cmm/m/it/12 ONE:\OT1/cmr/m/n/12 ?`\OML/cmm/m/it/12 Qu[]cambiosobservarespec
 toalastransacciones\OT1/cmr/m/n/12 ?$ 
  []
 
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 476.
+(babel)             in language  on input line 477.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 476.
+(babel)             in language  on input line 477.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 476.
+(babel)             in language  on input line 477.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 476.
+(babel)             in language  on input line 477.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 476.
+(babel)             in language  on input line 477.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 476.
+(babel)             in language  on input line 477.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 480.
+(babel)             in language  on input line 481.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 480.
+(babel)             in language  on input line 481.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 480.
+(babel)             in language  on input line 481.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 480.
+(babel)             in language  on input line 481.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 480.
+(babel)             in language  on input line 481.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 480.
+(babel)             in language  on input line 481.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 484.
+(babel)             in language  on input line 485.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 484.
+(babel)             in language  on input line 485.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 484.
+(babel)             in language  on input line 485.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 484.
+(babel)             in language  on input line 485.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 484.
+(babel)             in language  on input line 485.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 484.
+(babel)             in language  on input line 485.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 488.
+(babel)             in language  on input line 489.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 488.
+(babel)             in language  on input line 489.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 488.
+(babel)             in language  on input line 489.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 488.
+(babel)             in language  on input line 489.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 488.
+(babel)             in language  on input line 489.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 488.
+(babel)             in language  on input line 489.
 
-Underfull \hbox (badness 10000) in paragraph at lines 491--508
+Underfull \hbox (badness 10000) in paragraph at lines 492--509
 
  []
 
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 508.
+(babel)             in language  on input line 509.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 508.
+(babel)             in language  on input line 509.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 508.
+(babel)             in language  on input line 509.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 508.
+(babel)             in language  on input line 509.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 508.
+(babel)             in language  on input line 509.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 508.
+(babel)             in language  on input line 509.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 508.
+(babel)             in language  on input line 509.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 508.
+(babel)             in language  on input line 509.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 508.
+(babel)             in language  on input line 509.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 508.
+(babel)             in language  on input line 509.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 508.
+(babel)             in language  on input line 509.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 508.
+(babel)             in language  on input line 509.
 [35]
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.509 SELECT COURSE_
+l.510 SELECT COURSE_
                     NAME, MARKS, EXAM_ID \\
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -3121,48 +3134,23 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.512 
+l.513 
       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 509--512
+Underfull \hbox (badness 10000) in paragraph at lines 510--513
 
  []
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.513 ...s que han optado por el curso con COURSE_
+l.514 ...s que han optado por el curso con COURSE_
                                                   ID en el rango de 190 a 19...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \' invalid in math mode on input line 514.
-
-! Please use \mathaccent for accents in math mode.
-\add@accent ...@spacefactor \spacefactor }\accent 
-                                                  #1 #2\egroup \spacefactor ...
-l.514 ... AD_EXAM_RESULTS incluso si no hay ningú
-                                                  n registro que coincida en...
-I'm changing \accent to \mathaccent here; wish me luck.
-(Accents are not the same in formulas as they are in text.)
-
-! You can't use `\spacefactor' in math mode.
-\add@accent ...}\accent #1 #2\egroup \spacefactor 
-                                                  \accent@spacefactor 
-l.514 ... AD_EXAM_RESULTS incluso si no hay ningú
-                                                  n registro que coincida en...
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-
-LaTeX Warning: Command \textquestiondown invalid in math mode on input line 515
-.
 
 
 LaTeX Warning: Command \' invalid in math mode on input line 515.
@@ -3170,7 +3158,32 @@ LaTeX Warning: Command \' invalid in math mode on input line 515.
 ! Please use \mathaccent for accents in math mode.
 \add@accent ...@spacefactor \spacefactor }\accent 
                                                   #1 #2\egroup \spacefactor ...
-l.515 8. ¿Qué
+l.515 ... AD_EXAM_RESULTS incluso si no hay ningú
+                                                  n registro que coincida en...
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.515 ... AD_EXAM_RESULTS incluso si no hay ningú
+                                                  n registro que coincida en...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+LaTeX Warning: Command \textquestiondown invalid in math mode on input line 516
+.
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 516.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.516 8. ¿Qué
                 salida se debe generar cuando se ejecuta la sentencia especi...
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
@@ -3178,7 +3191,7 @@ I'm changing \accent to \mathaccent here; wish me luck.
 ! You can't use `\spacefactor' in math mode.
 \add@accent ...}\accent #1 #2\egroup \spacefactor 
                                                   \accent@spacefactor 
-l.515 8. ¿Qué
+l.516 8. ¿Qué
                 salida se debe generar cuando se ejecuta la sentencia especi...
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
@@ -3188,7 +3201,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.519 
+l.520 
       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -3196,27 +3209,27 @@ you left one out. Proceed, with fingers crossed.
 Missing character: There is no � in font cmex10!
 Missing character: There is no � in font cmex10!
 
-Overfull \hbox (54.39233pt too wide) in paragraph at lines 513--519
+Overfull \hbox (54.39233pt too wide) in paragraph at lines 514--520
 \OT1/cmr/m/n/12 ni-das por los alum-nos que han op-ta-do por el cur-so con COUR
 SE$[]\OML/cmm/m/it/12 Denelrangode\OT1/cmr/m/n/12 190\OML/cmm/m/it/12 a\OT1/cmr
 /m/n/12 195\OML/cmm/m/it/12 :[] 
  []
 
 
-Overfull \hbox (267.71964pt too wide) in paragraph at lines 513--519
+Overfull \hbox (267.71964pt too wide) in paragraph at lines 514--520
 \OT1/cmr/m/n/12 7\OML/cmm/m/it/12 :RecuperelasfilasdelatablaAD[]XAM[]ESULTSincl
 usosinohayning[]nregistroquecoincidaenlatablaAD[]OURSE[]ETAILS:[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 513--519
+Underfull \hbox (badness 10000) in paragraph at lines 514--520
 
  []
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.521 SELECT COURSE_
+l.522 SELECT COURSE_
                     NAME, MARKS, EXAM_ID
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -3224,13 +3237,13 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.524 
+l.525 
       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (340.41982pt too wide) in paragraph at lines 521--524
+Overfull \hbox (340.41982pt too wide) in paragraph at lines 522--525
 []\OT1/cmr/m/n/12 SELECT COURSE$[]\OML/cmm/m/it/12 AME; MARKS; EXAM[]DFROMAD[]O
 URSE[]ETAILSdJOINAD[]XAM[]ESULTSaUSING\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 a:COURS
 E[]D\OT1/cmr/m/n/12 );$ 
@@ -3239,35 +3252,10 @@ E[]D\OT1/cmr/m/n/12 );$
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.525 ...s que han optado por el curso con COURSE_
+l.526 ...s que han optado por el curso con COURSE_
                                                   ID en el rango de 190 a 195.
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \' invalid in math mode on input line 526.
-
-! Please use \mathaccent for accents in math mode.
-\add@accent ...@spacefactor \spacefactor }\accent 
-                                                  #1 #2\egroup \spacefactor ...
-l.526 ... AD_EXAM_RESULTS incluso si no hay ningú
-                                                  n registro que coincida en...
-I'm changing \accent to \mathaccent here; wish me luck.
-(Accents are not the same in formulas as they are in text.)
-
-! You can't use `\spacefactor' in math mode.
-\add@accent ...}\accent #1 #2\egroup \spacefactor 
-                                                  \accent@spacefactor 
-l.526 ... AD_EXAM_RESULTS incluso si no hay ningú
-                                                  n registro que coincida en...
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-
-LaTeX Warning: Command \textquestiondown invalid in math mode on input line 527
-.
 
 
 LaTeX Warning: Command \' invalid in math mode on input line 527.
@@ -3275,7 +3263,32 @@ LaTeX Warning: Command \' invalid in math mode on input line 527.
 ! Please use \mathaccent for accents in math mode.
 \add@accent ...@spacefactor \spacefactor }\accent 
                                                   #1 #2\egroup \spacefactor ...
-l.527 8. ¿Qué
+l.527 ... AD_EXAM_RESULTS incluso si no hay ningú
+                                                  n registro que coincida en...
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.527 ... AD_EXAM_RESULTS incluso si no hay ningú
+                                                  n registro que coincida en...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+LaTeX Warning: Command \textquestiondown invalid in math mode on input line 528
+.
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 528.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.528 8. ¿Qué
                 salida se debe generar cuando se ejecuta la sentencia especi...
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
@@ -3283,7 +3296,7 @@ I'm changing \accent to \mathaccent here; wish me luck.
 ! You can't use `\spacefactor' in math mode.
 \add@accent ...}\accent #1 #2\egroup \spacefactor 
                                                   \accent@spacefactor 
-l.527 8. ¿Qué
+l.528 8. ¿Qué
                 salida se debe generar cuando se ejecuta la sentencia especi...
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
@@ -3293,7 +3306,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.531 
+l.532 
       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -3301,7 +3314,7 @@ you left one out. Proceed, with fingers crossed.
 Missing character: There is no � in font cmex10!
 Missing character: There is no � in font cmex10!
 
-Overfull \hbox (1134.3814pt too wide) in paragraph at lines 525--531
+Overfull \hbox (1134.3814pt too wide) in paragraph at lines 526--532
 \OT1/cmr/m/n/12 ni-das por los alum-nos que han op-ta-do por el cur-so con COUR
 SE$[]\OML/cmm/m/it/12 Denelrangode\OT1/cmr/m/n/12 190\OML/cmm/m/it/12 a\OT1/cmr
 /m/n/12 195[]7\OML/cmm/m/it/12 :RecuperelasfilasdelatablaAD[]XAM[]ESULTSincluso
@@ -3313,71 +3326,84 @@ doseejecutalasentenciaespecificada\OT1/cmr/m/n/12 ?\OML/cmm/m/it/12 SELECT \OMS
 
 No file Practicas.bbl.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 536.
+(babel)             in language  on input line 537.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 536.
+(babel)             in language  on input line 537.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 536.
+(babel)             in language  on input line 537.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 536.
+(babel)             in language  on input line 537.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 536.
+(babel)             in language  on input line 537.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 536.
+(babel)             in language  on input line 537.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.540 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
 
 AED: lastpage setting LastPage
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 540.
+(babel)             in language  on input line 544.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 540.
+(babel)             in language  on input line 544.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 540.
+(babel)             in language  on input line 544.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 540.
+(babel)             in language  on input line 544.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 540.
+(babel)             in language  on input line 544.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 540.
+(babel)             in language  on input line 544.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 540.
+(babel)             in language  on input line 544.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 540.
+(babel)             in language  on input line 544.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 540.
+(babel)             in language  on input line 544.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 540.
+(babel)             in language  on input line 544.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 540.
+(babel)             in language  on input line 544.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 540.
+(babel)             in language  on input line 544.
 [36]
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 540.
+(babel)             in language  on input line 544.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 540.
+(babel)             in language  on input line 544.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 540.
+(babel)             in language  on input line 544.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 540.
+(babel)             in language  on input line 544.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 540.
+(babel)             in language  on input line 544.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 540.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 540.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 540.
+(babel)             in language  on input line 544.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 544.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 544.
  (Practicas.aux
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 540.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 540.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 544.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 544.
 Package rerunfilecheck Info: File `Practicas.out' has not changed.
 (rerunfilecheck)             Checksum: 59D069DF968BFA3318FEF774B1B4B331;1976.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 540.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 544.
  ) 
 Here is how much of TeX's memory you used:
  6754 strings out of 493323
@@ -3393,7 +3419,7 @@ les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTe
 X 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fon
 ts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
 ublic/amsfonts/cm/cmsy10.pfb>
-Output written on Practicas.pdf (37 pages, 1473875 bytes).
+Output written on Practicas.pdf (37 pages, 1474115 bytes).
 PDF statistics:
  457 PDF objects out of 1000 (max. 8388607)
  91 named destinations out of 1000 (max. 500000)
