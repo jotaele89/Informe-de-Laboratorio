@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.11.11)  11 NOV 2017 10:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.11.11)  11 NOV 2017 10:13
 entering extended mode
 **./Practicas.tex
 (Practicas.tex
@@ -532,71 +532,7 @@ Now handling font encoding PD1 ...
 ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\enumerate.sty"
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
 \@enLab=\toks18
-) (Practicas.aux
-LaTeX Info: Redefining \. on input line 23.
-LaTeX Info: Redefining \% on input line 23.
-
-
-LaTeX Warning: Label `se:nudo' multiply defined.
-
-
-LaTeX Warning: Label `se:nudo' multiply defined.
-
-
-LaTeX Warning: Label `se:nudo' multiply defined.
-
-
-LaTeX Warning: Label `se:nudo' multiply defined.
-
-
-LaTeX Warning: Label `se:nudo' multiply defined.
-
-
-LaTeX Warning: Label `se:nudo' multiply defined.
-
-
-LaTeX Warning: Label `se:nudo' multiply defined.
-
-
-LaTeX Warning: Label `se:nudo' multiply defined.
-
-
-LaTeX Warning: Label `se:nudo' multiply defined.
-
-
-LaTeX Warning: Label `se:nudo' multiply defined.
-
-
-LaTeX Warning: Label `se:nudo' multiply defined.
-
-
-LaTeX Warning: Label `se:nudo' multiply defined.
-
-
-LaTeX Warning: Label `se:nudo' multiply defined.
-
-
-LaTeX Warning: Label `se:nudo' multiply defined.
-
-
-LaTeX Warning: Label `se:nudo' multiply defined.
-
-
-LaTeX Warning: Label `se:nudo' multiply defined.
-
-
-LaTeX Warning: Label `se:nudo' multiply defined.
-
-
-LaTeX Warning: Label `se:nudo' multiply defined.
-
-
-LaTeX Warning: Label `se:nudo' multiply defined.
-
-
-LaTeX Warning: Label `se:nudo' multiply defined.
-
-)
+) (Practicas.aux)
 \openout1 = `Practicas.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 69.
@@ -618,7 +554,21 @@ LaTeX Info: Redefining \% on input line 69.
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
 (lastpage)             ! on input line 69.
- ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count101
+\scratchdimen=\dimen110
+\scratchbox=\box26
+\nofMPsegments=\count102
+\nofMParguments=\count103
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count104
+\MPscratchDim=\dimen111
+\MPnumerator=\count105
+\makeMPintoPDFobject=\count106
+\everyMPtoPDFconversion=\toks20
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
@@ -631,7 +581,7 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-\AtBeginShipoutBox=\box26
+\AtBeginShipoutBox=\box27
 Package hyperref Info: Link coloring OFF on input line 69.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
@@ -640,7 +590,7 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count101
+\c@section@level=\count107
 )
 LaTeX Info: Redefining \ref on input line 69.
 LaTeX Info: Redefining \pageref on input line 69.
@@ -650,10 +600,10 @@ LaTeX Info: Redefining \nameref on input line 69.
 \@outlinefile=\write3
 \openout3 = `Practicas.out'.
 
-
-<./images/upt.png, id=90, 70.6275pt x 95.265pt>
+ <./images/upt.png, id=3, 70.6275pt x 95.265pt>
 File: ./images/upt.png Graphic file (type png)
- <use ./images/upt.png>
+
+<use ./images/upt.png>
 Package pdftex.def Info: ./images/upt.png used on input line 75.
 (pdftex.def)             Requested size: 113.81102pt x 153.5173pt.
 Package babel Info: Redefining spanish shorthand <<
@@ -684,19 +634,14 @@ Package babel Info: Redefining spanish shorthand "?
 
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./images/upt.png>]
-(Practicas.toc
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 2.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 2.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 2.
-)
+
+Package hyperref Warning: old toc file detected, not used; run LaTeX again.
+
 \tf@toc=\write4
 \openout4 = `Practicas.toc'.
 
+
+LaTeX Warning: Reference `LastPage' on page 1 undefined on input line 121.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -746,7 +691,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 125.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 125.
- <Imag04/1.jpg, id=138, 465.23813pt x 441.14813pt>
+ <Imag04/1.jpg, id=17, 465.23813pt x 441.14813pt>
 File: Imag04/1.jpg Graphic file (type jpg)
 
 <use Imag04/1.jpg>
@@ -760,6 +705,10 @@ Overfull \hbox (75.23698pt too wide) in paragraph at lines 137--137
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+
+
+LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 138.
+
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 138.
 Package babel Info: Redefining spanish shorthand >>
@@ -784,8 +733,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 138.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 138.
- [2]
-<Imag04/2.jpg, id=147, 462.22687pt x 441.90094pt>
+[2] <Imag04/2.jpg, id=26, 462.22687pt x 441.90094pt>
 File: Imag04/2.jpg Graphic file (type jpg)
  <use Imag04/2.jpg>
 Package pdftex.def Info: Imag04/2.jpg used on input line 138.
@@ -798,6 +746,10 @@ Overfull \hbox (72.22574pt too wide) in paragraph at lines 138--138
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+
+
+LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 139.
+
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 139.
 Package babel Info: Redefining spanish shorthand >>
@@ -822,9 +774,10 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 139.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 139.
- [3 <./Imag04/1.jpg>] <Imag04/3.jpg, id=153, 442.65375pt x 421.575pt>
+[3 <./Imag04/1.jpg>] <Imag04/3.jpg, id=31, 442.65375pt x 421.575pt>
 File: Imag04/3.jpg Graphic file (type jpg)
- <use Imag04/3.jpg>
+
+<use Imag04/3.jpg>
 Package pdftex.def Info: Imag04/3.jpg used on input line 139.
 (pdftex.def)             Requested size: 442.65265pt x 421.57396pt.
 
@@ -835,6 +788,10 @@ Overfull \hbox (52.65265pt too wide) in paragraph at lines 139--139
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+
+
+LaTeX Warning: Reference `LastPage' on page 4 undefined on input line 140.
+
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 140.
 Package babel Info: Redefining spanish shorthand >>
@@ -859,7 +816,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 140.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 140.
- [4 <./Imag04/2.jpg>]
+[4 <./Imag04/2.jpg>]
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 142.
 Package babel Info: Redefining spanish shorthand >>
@@ -876,6 +833,9 @@ Package babel Info: Redefining spanish shorthand "?
 Underfull \hbox (badness 10000) in paragraph at lines 145--149
 
  []
+
+
+LaTeX Warning: Reference `LastPage' on page 5 undefined on input line 149.
 
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 149.
@@ -916,7 +876,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 170--171
 
  []
 
-<Imag04/4.png, id=164, 389.20406pt x 234.8775pt>
+<Imag04/4.png, id=41, 389.20406pt x 234.8775pt>
 File: Imag04/4.png Graphic file (type png)
  <use Imag04/4.png>
 Package pdftex.def Info: Imag04/4.png used on input line 172.
@@ -937,6 +897,9 @@ Package babel Info: Redefining spanish shorthand "?
 Underfull \hbox (badness 10000) in paragraph at lines 178--181
 
  []
+
+
+LaTeX Warning: Reference `LastPage' on page 6 undefined on input line 181.
 
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 181.
@@ -972,7 +935,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 190--191
 
  []
 
-<Imag04/5.png, id=172, 386.19281pt x 234.8775pt>
+<Imag04/5.png, id=48, 386.19281pt x 234.8775pt>
 File: Imag04/5.png Graphic file (type png)
  <use Imag04/5.png>
 Package pdftex.def Info: Imag04/5.png used on input line 192.
@@ -997,6 +960,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 198--201
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+
+
+LaTeX Warning: Reference `LastPage' on page 7 undefined on input line 201.
+
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 201.
 Package babel Info: Redefining spanish shorthand >>
@@ -1021,7 +988,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 201.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 201.
- [7 <./Imag04/5.png>]
+[7 <./Imag04/5.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 204--205
 
  []
@@ -1031,7 +998,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 210--211
 
  []
 
-<Imag04/6.png, id=179, 426.84468pt x 272.51813pt>
+<Imag04/6.png, id=55, 426.84468pt x 272.51813pt>
 File: Imag04/6.png Graphic file (type png)
  <use Imag04/6.png>
 Package pdftex.def Info: Imag04/6.png used on input line 212.
@@ -1056,6 +1023,10 @@ Package babel Info: Redefining spanish shorthand "?
 
 Underfull \vbox (badness 1292) has occurred while \output is active []
 
+
+
+LaTeX Warning: Reference `LastPage' on page 8 undefined on input line 223.
+
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 223.
 Package babel Info: Redefining spanish shorthand >>
@@ -1080,12 +1051,12 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 223.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 223.
- [8 <./Imag04/6.png>]
+[8 <./Imag04/6.png>]
 
 LaTeX Warning: File `./images/5-1 Ejercicio 1/1.png' not found on input line 22
 9.
 
-<./images/5-1 Ejercicio 1/1.png, id=185, 402.75468pt x 430.60875pt>
+<./images/5-1 Ejercicio 1/1.png, id=61, 402.75468pt x 430.60875pt>
 File: ./images/5-1 Ejercicio 1/1.png Graphic file (type png)
 
 <use ./images/5-1 Ejercicio 1/1.png>
@@ -1097,7 +1068,7 @@ Package pdftex.def Info: ./images/5-1 Ejercicio 1/1.png used on input line 229.
 LaTeX Warning: File `./images/5-1 Ejercicio 1/2.png' not found on input line 23
 0.
 
-<./images/5-1 Ejercicio 1/2.png, id=186, 779.91376pt x 500.62032pt>
+<./images/5-1 Ejercicio 1/2.png, id=62, 779.91376pt x 500.62032pt>
 File: ./images/5-1 Ejercicio 1/2.png Graphic file (type png)
 
 <use ./images/5-1 Ejercicio 1/2.png>
@@ -1108,6 +1079,9 @@ Package pdftex.def Info: ./images/5-1 Ejercicio 1/2.png used on input line 230.
 Overfull \hbox (93.69684pt too wide) in paragraph at lines 230--230
  [] 
  []
+
+
+LaTeX Warning: Reference `LastPage' on page 9 undefined on input line 231.
 
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 231.
@@ -1138,7 +1112,7 @@ Package babel Info: Redefining spanish shorthand "?
 LaTeX Warning: File `./images/5-1 Ejercicio 1/3.png' not found on input line 23
 1.
 
-<./images/5-1 Ejercicio 1/3.png, id=196, 262.73157pt x 106.89937pt>
+<./images/5-1 Ejercicio 1/3.png, id=72, 262.73157pt x 106.89937pt>
 File: ./images/5-1 Ejercicio 1/3.png Graphic file (type png)
 
 <use ./images/5-1 Ejercicio 1/3.png>
@@ -1157,6 +1131,10 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 236.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 236.
+
+
+LaTeX Warning: Reference `LastPage' on page 10 undefined on input line 243.
+
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 243.
 Package babel Info: Redefining spanish shorthand >>
@@ -1181,12 +1159,12 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 243.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 243.
- [10 <./images/5-1 Ejercicio 1/2.png> <./images/5-1 Ejercicio 1/3.png>]
+[10 <./images/5-1 Ejercicio 1/2.png> <./images/5-1 Ejercicio 1/3.png>]
 
 LaTeX Warning: File `./images/5-1 Ejercicio 2/1.png' not found on input line 24
 9.
 
-<./images/5-1 Ejercicio 2/1.png, id=202, 402.75468pt x 323.70938pt>
+<./images/5-1 Ejercicio 2/1.png, id=78, 402.75468pt x 323.70938pt>
 File: ./images/5-1 Ejercicio 2/1.png Graphic file (type png)
 
 <use ./images/5-1 Ejercicio 2/1.png>
@@ -1198,7 +1176,7 @@ Package pdftex.def Info: ./images/5-1 Ejercicio 2/1.png used on input line 249.
 LaTeX Warning: File `./images/5-1 Ejercicio 2/2.png' not found on input line 25
 0.
 
-<./images/5-1 Ejercicio 2/2.png, id=203, 432.11438pt x 373.395pt>
+<./images/5-1 Ejercicio 2/2.png, id=79, 432.11438pt x 373.395pt>
 File: ./images/5-1 Ejercicio 2/2.png Graphic file (type png)
 
 <use ./images/5-1 Ejercicio 2/2.png>
@@ -1208,6 +1186,10 @@ Package pdftex.def Info: ./images/5-1 Ejercicio 2/2.png used on input line 250.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+
+
+LaTeX Warning: Reference `LastPage' on page 11 undefined on input line 251.
+
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 251.
 Package babel Info: Redefining spanish shorthand >>
@@ -1232,12 +1214,12 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 251.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 251.
- [11 <./images/5-1 Ejercicio 2/1.png>]
+[11 <./images/5-1 Ejercicio 2/1.png>]
 
 LaTeX Warning: File `./images/5-1 Ejercicio 2/3.png' not found on input line 25
 1.
 
-<./images/5-1 Ejercicio 2/3.png, id=213, 479.54156pt x 218.31563pt>
+<./images/5-1 Ejercicio 2/3.png, id=88, 479.54156pt x 218.31563pt>
 File: ./images/5-1 Ejercicio 2/3.png Graphic file (type png)
 
 <use ./images/5-1 Ejercicio 2/3.png>
@@ -1253,7 +1235,7 @@ Overfull \hbox (8.33858pt too wide) in paragraph at lines 251--251
 LaTeX Warning: File `./images/5-1 Ejercicio 2/4.png' not found on input line 25
 2.
 
-<./images/5-1 Ejercicio 2/4.png, id=214, 441.14813pt x 347.04657pt>
+<./images/5-1 Ejercicio 2/4.png, id=89, 441.14813pt x 347.04657pt>
 File: ./images/5-1 Ejercicio 2/4.png Graphic file (type png)
 
 <use ./images/5-1 Ejercicio 2/4.png>
@@ -1263,6 +1245,10 @@ Package pdftex.def Info: ./images/5-1 Ejercicio 2/4.png used on input line 252.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+
+
+LaTeX Warning: Reference `LastPage' on page 12 undefined on input line 253.
+
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 253.
 Package babel Info: Redefining spanish shorthand >>
@@ -1287,12 +1273,12 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 253.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 253.
- [12 <./images/5-1 Ejercicio 2/2.png> <./images/5-1 Ejercicio 2/3.png>]
+[12 <./images/5-1 Ejercicio 2/2.png> <./images/5-1 Ejercicio 2/3.png>]
 
 LaTeX Warning: File `./images/5-1 Ejercicio 2/5.png' not found on input line 25
 3.
 
-<./images/5-1 Ejercicio 2/5.png, id=221, 479.54156pt x 218.31563pt>
+<./images/5-1 Ejercicio 2/5.png, id=95, 479.54156pt x 218.31563pt>
 File: ./images/5-1 Ejercicio 2/5.png Graphic file (type png)
 
 <use ./images/5-1 Ejercicio 2/5.png>
@@ -1304,7 +1290,7 @@ Package pdftex.def Info: ./images/5-1 Ejercicio 2/5.png used on input line 253.
 LaTeX Warning: File `./images/5-1 Ejercicio 2/6.png' not found on input line 25
 4.
 
-<./images/5-1 Ejercicio 2/6.png, id=222, 227.34938pt x 233.37187pt>
+<./images/5-1 Ejercicio 2/6.png, id=96, 227.34938pt x 233.37187pt>
 File: ./images/5-1 Ejercicio 2/6.png Graphic file (type png)
 
 <use ./images/5-1 Ejercicio 2/6.png>
@@ -1314,6 +1300,10 @@ Package pdftex.def Info: ./images/5-1 Ejercicio 2/6.png used on input line 254.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+
+
+LaTeX Warning: Reference `LastPage' on page 13 undefined on input line 255.
+
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 255.
 Package babel Info: Redefining spanish shorthand >>
@@ -1338,12 +1328,12 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 255.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 255.
- [13 <./images/5-1 Ejercicio 2/4.png> <./images/5-1 Ejercicio 2/5.png>]
+[13 <./images/5-1 Ejercicio 2/4.png> <./images/5-1 Ejercicio 2/5.png>]
 
 LaTeX Warning: File `./images/5-1 Ejercicio 2/7.png' not found on input line 25
 5.
 
-<./images/5-1 Ejercicio 2/7.png, id=228, 587.94656pt x 264.99pt>
+<./images/5-1 Ejercicio 2/7.png, id=101, 587.94656pt x 264.99pt>
 File: ./images/5-1 Ejercicio 2/7.png Graphic file (type png)
 
 <use ./images/5-1 Ejercicio 2/7.png>
@@ -1359,7 +1349,7 @@ Overfull \hbox (8.33858pt too wide) in paragraph at lines 255--255
 LaTeX Warning: File `./images/5-1 Ejercicio 2/8.png' not found on input line 25
 6.
 
-<./images/5-1 Ejercicio 2/8.png, id=229, 441.14813pt x 347.04657pt>
+<./images/5-1 Ejercicio 2/8.png, id=102, 441.14813pt x 347.04657pt>
 File: ./images/5-1 Ejercicio 2/8.png Graphic file (type png)
 
 <use ./images/5-1 Ejercicio 2/8.png>
@@ -1369,6 +1359,10 @@ Package pdftex.def Info: ./images/5-1 Ejercicio 2/8.png used on input line 256.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+
+
+LaTeX Warning: Reference `LastPage' on page 14 undefined on input line 257.
+
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 257.
 Package babel Info: Redefining spanish shorthand >>
@@ -1393,7 +1387,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 257.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 257.
- [14 <./images/5-1 Ejercicio 2/6.png> <./images/5-1 Ejercicio 2/7.png>]
+[14 <./images/5-1 Ejercicio 2/6.png> <./images/5-1 Ejercicio 2/7.png>]
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 261.
 Package babel Info: Redefining spanish shorthand >>
@@ -1421,13 +1415,17 @@ y Se-lec-ted Ru-le-Set"para
 LaTeX Warning: File `./images/5-1 Ejercicio 3/1.png' not found on input line 27
 7.
 
-<./images/5-1 Ejercicio 3/1.png, id=235, 485.56406pt x 306.39468pt>
+<./images/5-1 Ejercicio 3/1.png, id=107, 485.56406pt x 306.39468pt>
 File: ./images/5-1 Ejercicio 3/1.png Graphic file (type png)
 
 <use ./images/5-1 Ejercicio 3/1.png>
 Package pdftex.def Info: ./images/5-1 Ejercicio 3/1.png used on input line 277.
 
 (pdftex.def)             Requested size: 312.9803pt x 197.4898pt.
+
+
+LaTeX Warning: Reference `LastPage' on page 15 undefined on input line 278.
+
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 278.
 Package babel Info: Redefining spanish shorthand >>
@@ -1452,12 +1450,12 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 278.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 278.
- [15 <./images/5-1 Ejercicio 2/8.png>]
+[15 <./images/5-1 Ejercicio 2/8.png>]
 
 LaTeX Warning: File `./images/5-1 Ejercicio 3/2.png' not found on input line 27
 8.
 
-<./images/5-1 Ejercicio 3/2.png, id=248, 227.34938pt x 233.37187pt>
+<./images/5-1 Ejercicio 3/2.png, id=120, 227.34938pt x 233.37187pt>
 File: ./images/5-1 Ejercicio 3/2.png Graphic file (type png)
 
 <use ./images/5-1 Ejercicio 3/2.png>
@@ -1469,7 +1467,7 @@ Package pdftex.def Info: ./images/5-1 Ejercicio 3/2.png used on input line 278.
 LaTeX Warning: File `./images/5-1 Ejercicio 3/3.png' not found on input line 27
 9.
 
-<./images/5-1 Ejercicio 3/3.png, id=249, 591.71063pt x 267.24844pt>
+<./images/5-1 Ejercicio 3/3.png, id=121, 591.71063pt x 267.24844pt>
 File: ./images/5-1 Ejercicio 3/3.png Graphic file (type png)
 
 <use ./images/5-1 Ejercicio 3/3.png>
@@ -1479,6 +1477,10 @@ Package pdftex.def Info: ./images/5-1 Ejercicio 3/3.png used on input line 279.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+
+
+LaTeX Warning: Reference `LastPage' on page 16 undefined on input line 280.
+
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 280.
 Package babel Info: Redefining spanish shorthand >>
@@ -1503,12 +1505,12 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 280.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 280.
- [16 <./images/5-1 Ejercicio 3/1.png> <./images/5-1 Ejercicio 3/2.png>]
+[16 <./images/5-1 Ejercicio 3/1.png> <./images/5-1 Ejercicio 3/2.png>]
 
 LaTeX Warning: File `./images/5-1 Ejercicio 3/4.png' not found on input line 28
 0.
 
-<./images/5-1 Ejercicio 3/4.png, id=255, 591.71063pt x 267.24844pt>
+<./images/5-1 Ejercicio 3/4.png, id=126, 591.71063pt x 267.24844pt>
 File: ./images/5-1 Ejercicio 3/4.png Graphic file (type png)
 
 <use ./images/5-1 Ejercicio 3/4.png>
@@ -1520,7 +1522,7 @@ Package pdftex.def Info: ./images/5-1 Ejercicio 3/4.png used on input line 280.
 LaTeX Warning: File `./images/5-1 Ejercicio 3/5.png' not found on input line 28
 1.
 
-<./images/5-1 Ejercicio 3/5.png, id=256, 764.8575pt x 371.13657pt>
+<./images/5-1 Ejercicio 3/5.png, id=127, 764.8575pt x 371.13657pt>
 File: ./images/5-1 Ejercicio 3/5.png Graphic file (type png)
 
 <use ./images/5-1 Ejercicio 3/5.png>
@@ -1532,7 +1534,7 @@ Package pdftex.def Info: ./images/5-1 Ejercicio 3/5.png used on input line 281.
 LaTeX Warning: File `./images/5-1 Ejercicio 3/6.png' not found on input line 28
 2.
 
-<./images/5-1 Ejercicio 3/6.png, id=257, 764.8575pt x 371.13657pt>
+<./images/5-1 Ejercicio 3/6.png, id=128, 764.8575pt x 371.13657pt>
 File: ./images/5-1 Ejercicio 3/6.png Graphic file (type png)
 
 <use ./images/5-1 Ejercicio 3/6.png>
@@ -1542,6 +1544,10 @@ Package pdftex.def Info: ./images/5-1 Ejercicio 3/6.png used on input line 282.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+
+
+LaTeX Warning: Reference `LastPage' on page 17 undefined on input line 283.
+
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 283.
 Package babel Info: Redefining spanish shorthand >>
@@ -1566,13 +1572,13 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 283.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 283.
- [17 <./images/5-1 Ejercicio 3/3.png> <./images/5-1 Ejercicio 3/4.png> <./image
-s/5-1 Ejercicio 3/5.png>]
+[17 <./images/5-1 Ejercicio 3/3.png> <./images/5-1 Ejercicio 3/4.png> <./images
+/5-1 Ejercicio 3/5.png>]
 
 LaTeX Warning: File `./images/5-1 Ejercicio 3/7.png' not found on input line 28
 3.
 
-<./images/5-1 Ejercicio 3/7.png, id=263, 764.8575pt x 371.13657pt>
+<./images/5-1 Ejercicio 3/7.png, id=133, 764.8575pt x 371.13657pt>
 File: ./images/5-1 Ejercicio 3/7.png Graphic file (type png)
 
 <use ./images/5-1 Ejercicio 3/7.png>
@@ -1584,7 +1590,7 @@ Package pdftex.def Info: ./images/5-1 Ejercicio 3/7.png used on input line 283.
 LaTeX Warning: File `./images/5-1 Ejercicio 3/8.png' not found on input line 28
 4.
 
-<./images/5-1 Ejercicio 3/8.png, id=264, 591.71063pt x 267.24844pt>
+<./images/5-1 Ejercicio 3/8.png, id=134, 591.71063pt x 267.24844pt>
 File: ./images/5-1 Ejercicio 3/8.png Graphic file (type png)
 
 <use ./images/5-1 Ejercicio 3/8.png>
@@ -1611,6 +1617,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 291--298
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+
+
+LaTeX Warning: Reference `LastPage' on page 18 undefined on input line 298.
+
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 298.
 Package babel Info: Redefining spanish shorthand >>
@@ -1635,13 +1645,13 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 298.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 298.
- [18 <./images/5-1 Ejercicio 3/6.png> <./images/5-1 Ejercicio 3/7.png> <./image
-s/5-1 Ejercicio 3/8.png>]
+[18 <./images/5-1 Ejercicio 3/6.png> <./images/5-1 Ejercicio 3/7.png> <./images
+/5-1 Ejercicio 3/8.png>]
 
 LaTeX Warning: File `./images/5-1 Ejercicio 4/1.png' not found on input line 30
 2.
 
-<./images/5-1 Ejercicio 4/1.png, id=271, 293.59688pt x 260.47313pt>
+<./images/5-1 Ejercicio 4/1.png, id=140, 293.59688pt x 260.47313pt>
 File: ./images/5-1 Ejercicio 4/1.png Graphic file (type png)
 
 <use ./images/5-1 Ejercicio 4/1.png>
@@ -1653,7 +1663,7 @@ Package pdftex.def Info: ./images/5-1 Ejercicio 4/1.png used on input line 302.
 LaTeX Warning: File `./images/5-1 Ejercicio 4/2.png' not found on input line 30
 3.
 
-<./images/5-1 Ejercicio 4/2.png, id=272, 478.78876pt x 408.77719pt>
+<./images/5-1 Ejercicio 4/2.png, id=141, 478.78876pt x 408.77719pt>
 File: ./images/5-1 Ejercicio 4/2.png Graphic file (type png)
 
 <use ./images/5-1 Ejercicio 4/2.png>
@@ -1674,6 +1684,9 @@ Overfull \hbox (12.24466pt too wide) in paragraph at lines 302--304
 Underfull \hbox (badness 10000) in paragraph at lines 302--304
 
  []
+
+
+LaTeX Warning: Reference `LastPage' on page 19 undefined on input line 304.
 
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 304.
@@ -1721,7 +1734,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 309--311
 LaTeX Warning: File `./images/5-2 Ejercicio 1/1.png' not found on input line 31
 2.
 
-<./images/5-2 Ejercicio 1/1.png, id=281, 648.17157pt x 390.70969pt>
+<./images/5-2 Ejercicio 1/1.png, id=150, 648.17157pt x 390.70969pt>
 File: ./images/5-2 Ejercicio 1/1.png Graphic file (type png)
 
 <use ./images/5-2 Ejercicio 1/1.png>
@@ -1736,6 +1749,10 @@ Overfull \hbox (65.24408pt too wide) in paragraph at lines 312--312
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+
+
+LaTeX Warning: Reference `LastPage' on page 20 undefined on input line 313.
+
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 313.
 Package babel Info: Redefining spanish shorthand >>
@@ -1749,7 +1766,7 @@ Package babel Info: Redefining spanish shorthand "!
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 313.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 313.
+(babel)             in langua  Reon input line 313.
 Package babel Info: Redefining spanish shorthand >>
 (babel)             in language  on input line 313.
 Package babel Info: Redefining spanish shorthand "=
@@ -1760,12 +1777,12 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 313.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 313.
- [20 <./images/5-1 Ejercicio 4/2.png>]
+[20 <./images/5-1 Ejercicio 4/2.png>]
 
 LaTeX Warning: File `./images/5-2 Ejercicio 1/2.png' not found on input line 31
 3.
 
-<./images/5-2 Ejercicio 1/2.png, id=287, 642.90187pt x 390.70969pt>
+<./images/5-2 Ejercicio 1/2.png, id=156, 642.90187pt x 390.70969pt>
 File: ./images/5-2 Ejercicio 1/2.png Graphic file (type png)
 
 <use ./images/5-2 Ejercicio 1/2.png>
@@ -1797,6 +1814,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 321--323
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+
+
+LaTeX Warning: Reference `LastPage' on page 21 undefined on input line 323.
+
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 323.
 Package babel Info: Redefining spanish shorthand >>
@@ -1821,12 +1842,12 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 323.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 323.
- [21 <./images/5-2 Ejercicio 1/1.png> <./images/5-2 Ejercicio 1/2.png>]
+[21 <./images/5-2 Ejercicio 1/1.png> <./images/5-2 Ejercicio 1/2.png>]
 
 LaTeX Warning: File `./images/5-2 Ejercicio 2/1.png' not found on input line 32
 4.
 
-<./images/5-2 Ejercicio 2/1.png, id=293, 207.02344pt x 246.1697pt>
+<./images/5-2 Ejercicio 2/1.png, id=161, 207.02344pt x 246.1697pt>
 File: ./images/5-2 Ejercicio 2/1.png Graphic file (type png)
 
 <use ./images/5-2 Ejercicio 2/1.png>
@@ -1838,7 +1859,7 @@ Package pdftex.def Info: ./images/5-2 Ejercicio 2/1.png used on input line 324.
 LaTeX Warning: File `./images/5-2 Ejercicio 2/2.png' not found on input line 32
 5.
 
-<./images/5-2 Ejercicio 2/2.png, id=294, 478.78876pt x 408.77719pt>
+<./images/5-2 Ejercicio 2/2.png, id=162, 478.78876pt x 408.77719pt>
 File: ./images/5-2 Ejercicio 2/2.png Graphic file (type png)
 
 <use ./images/5-2 Ejercicio 2/2.png>
@@ -1848,6 +1869,10 @@ Package pdftex.def Info: ./images/5-2 Ejercicio 2/2.png used on input line 325.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+
+
+LaTeX Warning: Reference `LastPage' on page 22 undefined on input line 326.
+
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 326.
 Package babel Info: Redefining spanish shorthand >>
@@ -1872,12 +1897,12 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 326.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 326.
- [22 <./images/5-2 Ejercicio 2/1.png>]
+[22 <./images/5-2 Ejercicio 2/1.png>]
 
 LaTeX Warning: File `./images/5-2 Ejercicio 2/3.png' not found on input line 32
 6.
 
-<./images/5-2 Ejercicio 2/3.png, id=300, 478.78876pt x 408.77719pt>
+<./images/5-2 Ejercicio 2/3.png, id=168, 478.78876pt x 408.77719pt>
 File: ./images/5-2 Ejercicio 2/3.png Graphic file (type png)
 
 <use ./images/5-2 Ejercicio 2/3.png>
@@ -1904,6 +1929,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 333--336
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+
+
+LaTeX Warning: Reference `LastPage' on page 23 undefined on input line 336.
+
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 336.
 Package babel Info: Redefining spanish shorthand >>
@@ -1928,12 +1957,12 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 336.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 336.
- [23 <./images/5-2 Ejercicio 2/2.png> <./images/5-2 Ejercicio 2/3.png>]
+[23 <./images/5-2 Ejercicio 2/2.png> <./images/5-2 Ejercicio 2/3.png>]
 
 LaTeX Warning: File `./images/5-2 Ejercicio 3/1.png' not found on input line 33
 7.
 
-<./images/5-2 Ejercicio 3/1.png, id=306, 392.21532pt x 400.49625pt>
+<./images/5-2 Ejercicio 3/1.png, id=173, 392.21532pt x 400.49625pt>
 File: ./images/5-2 Ejercicio 3/1.png Graphic file (type png)
 
 <use ./images/5-2 Ejercicio 3/1.png>
@@ -1945,7 +1974,7 @@ Package pdftex.def Info: ./images/5-2 Ejercicio 3/1.png used on input line 337.
 LaTeX Warning: File `./images/5-2 Ejercicio 3/2.png' not found on input line 33
 8.
 
-<./images/5-2 Ejercicio 3/2.png, id=307, 234.8775pt x 203.25937pt>
+<./images/5-2 Ejercicio 3/2.png, id=174, 234.8775pt x 203.25937pt>
 File: ./images/5-2 Ejercicio 3/2.png Graphic file (type png)
 
 <use ./images/5-2 Ejercicio 3/2.png>
@@ -1955,6 +1984,10 @@ Package pdftex.def Info: ./images/5-2 Ejercicio 3/2.png used on input line 338.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+
+
+LaTeX Warning: Reference `LastPage' on page 24 undefined on input line 339.
+
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 339.
 Package babel Info: Redefining spanish shorthand >>
@@ -1979,7 +2012,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 339.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 339.
- [24 <./images/5-2 Ejercicio 3/1.png>]
+[24 <./images/5-2 Ejercicio 3/1.png>]
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 343.
 Package babel Info: Redefining spanish shorthand >>
@@ -2001,7 +2034,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 346--348
 LaTeX Warning: File `./images/5-2 Ejercicio 4/1.png' not found on input line 34
 9.
 
-<./images/5-2 Ejercicio 4/1.png, id=314, 395.97937pt x 400.49625pt>
+<./images/5-2 Ejercicio 4/1.png, id=181, 395.97937pt x 400.49625pt>
 File: ./images/5-2 Ejercicio 4/1.png Graphic file (type png)
 
 <use ./images/5-2 Ejercicio 4/1.png>
@@ -2011,6 +2044,10 @@ Package pdftex.def Info: ./images/5-2 Ejercicio 4/1.png used on input line 349.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+
+
+LaTeX Warning: Reference `LastPage' on page 25 undefined on input line 350.
+
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 350.
 Package babel Info: Redefining spanish shorthand >>
@@ -2035,7 +2072,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 350.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 350.
- [25 <./images/5-2 Ejercicio 3/2.png>]
+[25 <./images/5-2 Ejercicio 3/2.png>]
 
 LaTeX Warning: File `./images/5-2 Ejercicio 4/1.png' not found on input line 35
 0.
@@ -2048,6 +2085,10 @@ Package pdftex.def Info: ./images/5-2 Ejercicio 4/1.png used on input line 350.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+
+
+LaTeX Warning: Reference `LastPage' on page 26 undefined on input line 351.
+
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 351.
 Package babel Info: Redefining spanish shorthand >>
@@ -2072,12 +2113,12 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 351.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 351.
- [26 <./images/5-2 Ejercicio 4/1.png>]
+[26 <./images/5-2 Ejercicio 4/1.png>]
 
 LaTeX Warning: File `./images/5-2 Ejercicio 4/3.png' not found on input line 35
 1.
 
-<./images/5-2 Ejercicio 4/3.png, id=325, 198.7425pt x 103.88812pt>
+<./images/5-2 Ejercicio 4/3.png, id=191, 198.7425pt x 103.88812pt>
 File: ./images/5-2 Ejercicio 4/3.png Graphic file (type png)
 
 <use ./images/5-2 Ejercicio 4/3.png>
@@ -2089,7 +2130,7 @@ Package pdftex.def Info: ./images/5-2 Ejercicio 4/3.png used on input line 351.
 LaTeX Warning: File `./images/5-2 Ejercicio 4/4.png' not found on input line 35
 2.
 
-<./images/5-2 Ejercicio 4/4.png, id=326, 645.16031pt x 394.47375pt>
+<./images/5-2 Ejercicio 4/4.png, id=192, 645.16031pt x 394.47375pt>
 File: ./images/5-2 Ejercicio 4/4.png Graphic file (type png)
 
 <use ./images/5-2 Ejercicio 4/4.png>
@@ -2104,6 +2145,10 @@ Overfull \hbox (65.24408pt too wide) in paragraph at lines 352--352
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+
+
+LaTeX Warning: Reference `LastPage' on page 27 undefined on input line 353.
+
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 353.
 Package babel Info: Redefining spanish shorthand >>
@@ -2128,7 +2173,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 353.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 353.
- [27 <./images/5-2 Ejercicio 4/3.png>]
+[27 <./images/5-2 Ejercicio 4/3.png>]
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 356.
 Package babel Info: Redefining spanish shorthand >>
@@ -2160,7 +2205,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 368--369
 LaTeX Warning: File `./images/6-1 Ejercicio/1.png' not found on input line 370.
 
 
-<./images/6-1 Ejercicio/1.png, id=332, 331.2375pt x 454.69875pt>
+<./images/6-1 Ejercicio/1.png, id=197, 331.2375pt x 454.69875pt>
 File: ./images/6-1 Ejercicio/1.png Graphic file (type png)
 
 <use ./images/6-1 Ejercicio/1.png>
@@ -2169,6 +2214,10 @@ Package pdftex.def Info: ./images/6-1 Ejercicio/1.png used on input line 370.
 
 Underfull \vbox (badness 3281) has occurred while \output is active []
 
+
+
+LaTeX Warning: Reference `LastPage' on page 28 undefined on input line 371.
+
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 371.
 Package babel Info: Redefining spanish shorthand >>
@@ -2193,7 +2242,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 371.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 371.
- [28 <./images/5-2 Ejercicio 4/4.png>]
+[28 <./images/5-2 Ejercicio 4/4.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 373--374
 
  []
@@ -2202,7 +2251,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 373--374
 LaTeX Warning: File `./images/6-1 Ejercicio/2.png' not found on input line 375.
 
 
-<./images/6-1 Ejercicio/2.png, id=338, 668.4975pt x 327.47343pt>
+<./images/6-1 Ejercicio/2.png, id=203, 668.4975pt x 327.47343pt>
 File: ./images/6-1 Ejercicio/2.png Graphic file (type png)
 
 <use ./images/6-1 Ejercicio/2.png>
@@ -2211,13 +2260,16 @@ Package pdftex.def Info: ./images/6-1 Ejercicio/2.png used on input line 375.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+
+
+LaTeX Warning: Reference `LastPage' on page 29 undefined on input line 376.
+
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 376.
 Package babel Info: Redefining spanish shorthand >>
 (babel)             in language  on input line 376.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 376.
-Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input lifo: Redefining spanish Info: Redefining spanish shorthand "~
 (babel)             in language  on input line 376.
 Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 376.
@@ -2235,7 +2287,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 376.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 376.
- [29 <./images/6-1 Ejercicio/1.png>]
+[29 <./images/6-1 Ejercicio/1.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 378--379
 
  []
@@ -2244,7 +2296,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 378--379
 LaTeX Warning: File `./images/6-1 Ejercicio/3.png' not found on input line 380.
 
 
-<./images/6-1 Ejercicio/3.png, id=345, 736.25063pt x 342.5297pt>
+<./images/6-1 Ejercicio/3.png, id=209, 736.25063pt x 342.5297pt>
 File: ./images/6-1 Ejercicio/3.png Graphic file (type png)
 
 <use ./images/6-1 Ejercicio/3.png>
@@ -2259,7 +2311,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 383--384
 LaTeX Warning: File `./images/6-1 Ejercicio/4.png' not found on input line 385.
 
 
-<./images/6-1 Ejercicio/4.png, id=346, 776.14969pt x 402.75468pt>
+<./images/6-1 Ejercicio/4.png, id=210, 776.14969pt x 402.75468pt>
 File: ./images/6-1 Ejercicio/4.png Graphic file (type png)
 
 <use ./images/6-1 Ejercicio/4.png>
@@ -2268,6 +2320,10 @@ Package pdftex.def Info: ./images/6-1 Ejercicio/4.png used on input line 385.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+
+
+LaTeX Warning: Reference `LastPage' on page 30 undefined on input line 386.
+
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 386.
 Package babel Info: Redefining spanish shorthand >>
@@ -2292,7 +2348,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 386.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 386.
- [30 <./images/6-1 Ejercicio/2.png> <./images/6-1 Ejercicio/3.png>]
+[30 <./images/6-1 Ejercicio/2.png> <./images/6-1 Ejercicio/3.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 388--389
 
  []
@@ -2301,7 +2357,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 388--389
 LaTeX Warning: File `./images/6-1 Ejercicio/5.png' not found on input line 390.
 
 
-<./images/6-1 Ejercicio/5.png, id=353, 758.835pt x 357.58594pt>
+<./images/6-1 Ejercicio/5.png, id=216, 758.835pt x 357.58594pt>
 File: ./images/6-1 Ejercicio/5.png Graphic file (type png)
 
 <use ./images/6-1 Ejercicio/5.png>
@@ -2312,15 +2368,19 @@ Package pdftex.def Info: ./images/6-1 Ejercicio/5.png used on input line 390.
 LaTeX Warning: File `./images/6-1 Ejercicio/6.png' not found on input line 391.
 
 
-<./images/6-1 Ejercicio/6.png, id=354, 671.50874pt x 473.51906pt>
+<./images/6-1 Ejercicio/6.png, id=217, 671.50874pt x 473.51906pt>
 File: ./images/6-1 Ejercicio/6.png Graphic file (type png)
 
 <use ./images/6-1 Ejercicio/6.png>
-Package pdftex.def Info: ./images/6-1 Ejercicio/6.png used on input line 391.
+Package pdftex.def Info: ./Ejercicio/6.png Graphic fg used on input line 391.
 (pdftex.def)             Requested size: 312.9803pt x 220.69707pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+
+
+LaTeX Warning: Reference `LastPage' on page 31 undefined on input line 392.
+
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 392.
 Package babel Info: Redefining spanish shorthand >>
@@ -2345,7 +2405,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 392.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 392.
- [31 <./images/6-1 Ejercicio/4.png> <./images/6-1 Ejercicio/5.png>]
+[31 <./images/6-1 Ejercicio/4.png> <./images/6-1 Ejercicio/5.png>]
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 394.
 Package babel Info: Redefining spanish shorthand >>
@@ -2370,6 +2430,9 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 Underfull \hbox (badness 10000) in paragraph at lines 402--404
 
  []
+
+
+LaTeX Warning: Reference `LastPage' on page 32 undefined on input line 421.
 
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 421.
@@ -2401,10 +2464,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 423--424
  []
 
 
-LaTeX Warning: File `./images/6-2 Ejercicio/1.png' not found on input line 425.
+LaTeX Warning: File `./ima
+<./images/6-2 Ejercicio/1t found on input line 425.
 
 
-<./images/6-2 Ejercicio/1.png, id=372, 831.105pt x 475.02469pt>
+<./images/6-2 Ejercicio/1.png, id=234, 831.105pt x 475.02469pt>
 File: ./images/6-2 Ejercicio/1.png Graphic file (type png)
 
 <use ./images/6-2 Ejercicio/1.png>
@@ -2419,7 +2483,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 428--429
 LaTeX Warning: File `./images/6-2 Ejercicio/2.png' not found on input line 430.
 
 
-<./images/6-2 Ejercicio/2.png, id=373, 1253.43282pt x 265.74281pt>
+<./images/6-2 Ejercicio/2.png, id=235, 1253.43282pt x 265.74281pt>
 File: ./images/6-2 Ejercicio/2.png Graphic file (type png)
 
 <use ./images/6-2 Ejercicio/2.png>
@@ -2434,7 +2498,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 433--434
 LaTeX Warning: File `./images/6-2 Ejercicio/3.png' not found on input line 435.
 
 
-<./images/6-2 Ejercicio/3.png, id=374, 1005.00468pt x 218.31563pt>
+<./images/6-2 Ejercicio/3.png, id=236, 1005.00468pt x 218.31563pt>
 File: ./images/6-2 Ejercicio/3.png Graphic file (type png)
 
 <use ./images/6-2 Ejercicio/3.png>
@@ -2449,12 +2513,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 438--439
 LaTeX Warning: File `./images/6-2 Ejercicio/4.png' not found on input line 440.
 
 
-<./images/6-2 Ejercicio/4.png, id=375, 715.17188pt x 688.82344pt>
+<./images/6-2 Ejercicio/4.png, id=237, 715.17188pt x 688.82344pt>
 File: ./images/6-2 Ejercicio/4.png Graphic file (type png)
 
 <use ./images/6-2 Ejercicio/4.png>
 Package pdftex.def Info: ./images/6-2 Ejercicio/4.png used on input line 440.
 (pdftex.def)             Requested size: 312.9803pt x 301.4541pt.
+
+
+LaTeX Warning: Reference `LastPage' on page 33 undefined on input line 440.
+
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 440.
 Package babel Info: Redefining spanish shorthand >>
@@ -2479,8 +2547,8 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 440.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 440.
- [33 <./images/6-2 Ejercicio/1.png> <./images/6-2 Ejercicio/2.png> <./images/6-
-2 Ejercicio/3.png>]
+[33 <./images/6-2 Ejercicio/1.png> <./images/6-2 Ejercicio/2.png> <./images/6-2
+ Ejercicio/3.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 443--444
 
  []
@@ -2489,7 +2557,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 443--444
 LaTeX Warning: File `./images/6-2 Ejercicio/5.png' not found on input line 445.
 
 
-<./images/6-2 Ejercicio/5.png, id=386, 1132.23pt x 213.79875pt>
+<./images/6-2 Ejercicio/5.png, id=247, 1132.23pt x 213.79875pt>
 File: ./images/6-2 Ejercicio/5.png Graphic file (type png)
 
 <use ./images/6-2 Ejercicio/5.png>
@@ -2500,15 +2568,14 @@ Package pdftex.def Info: ./images/6-2 Ejercicio/5.png used on input line 445.
 LaTeX Warning: File `./images/6-2 Ejercicio/6.png' not found on input line 446.
 
 
-<./images/6-2 Ejercicio/6.png, id=387, 1329.46687pt x 228.10219pt>
+<./images/6-2 Ejercicio/6.png, id=248, 1329.46687pt x 228.10219pt>
 File: ./images/6-2 Ejercicio/6.png Graphic file (type png)
 
 <use ./images/6-2 Ejercicio/6.png>
 Package pdftex.def Info: ./images/6-2 Ejercicio/6.png used on input line 446.
 (pdftex.def)             Requested size: 312.9803pt x 53.69798pt.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 449.
-Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  oInfo: Redefining spanish shorthl Info: Redefining spanish shorthand >>
 (babel)             in language  on input line 449.
 Package babel Info: Redefining spanish shorthand "=
 (babel)             in language  on input line 449.
@@ -2547,6 +2614,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 461--463
 
  []
 
+
+LaTeX Warning: Reference `LastPage' on page 34 undefined on input line 463.
+
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 463.
 Package babel Info: Redefining spanish shorthand >>
@@ -2581,6 +2651,12 @@ l.464 ...e la tabla para agregar la columna email_
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 464.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 464.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 464.
 
 ! LaTeX Error: Command \item invalid in math mode.
 
@@ -3072,6 +3148,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 490--507
 
  []
 
+
+LaTeX Warning: Reference `LastPage' on page 35 undefined on input line 507.
+
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 507.
 Package babel Info: Redefining spanish shorthand >>
@@ -3312,7 +3391,13 @@ Package babel Info: Redefining spanish shorthand "!
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 535.
 
+Package lastpage Warning: Rerun to get the references right on input line 539.
+
+
 AED: lastpage setting LastPage
+
+LaTeX Warning: Reference `LastPage' on page 36 undefined on input line 539.
+
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 539.
 Package babel Info: Redefining spanish shorthand >>
@@ -3358,31 +3443,40 @@ LaTeX Info: Redefining \% on input line 23.
 )
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 539.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 539.
-Package rerunfilecheck Info: File `Practicas.out' has not changed.
-(rerunfilecheck)             Checksum: 59D069DF968BFA3318FEF774B1B4B331;1976.
 
 
-LaTeX Warning: There were multiply-defined labels.
+Package rerunfilecheck Warning: File `Practicas.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Practicas.out':
+(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
+(rerunfilecheck)             After:  59D069DF968BFA3318FEF774B1B4B331;1976.
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 539.
  ) 
 Here is how much of TeX's memory you used:
- 6458 strings out of 493323
- 95045 string characters out of 3139059
- 187522 words of memory out of 3000000
- 9832 multiletter control sequences out of 15000+200000
- 7280 words of font info for 26 fonts, out of 3000000 for 9000
+ 6729 strings out of 493323
+ 98651 string characters out of 3139059
+ 190148 words of memory out of 3000000
+ 10102 multiletter control sequences out of 15000+200000
+ 7587 words of font info for 27 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 28i,11n,43p,269b,430s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 28i,12n,43p,269b,430s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Fi
 les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTe
 X 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fon
 ts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
 ublic/amsfonts/cm/cmsy10.pfb>
-Output written on Practicas.pdf (37 pages, 1473515 bytes).
+Output written on Practicas.pdf (37 pages, 1454619 bytes).
 PDF statistics:
- 457 PDF objects out of 1000 (max. 8388607)
+ 322 PDF objects out of 1000 (max. 8388607)
  91 named destinations out of 1000 (max. 500000)
- 427 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 251 words of extra memory for PDF output out of 10000 (max. 10000000)
 
